@@ -1,0 +1,860 @@
+date,year,type,country,area,location,activity,name,sex,age,fatal_y_n,time,species,month,day_of_week,hour,fatal,latitude,longitude
+2017-09-24,2017.0,Invalid,USA,New York,Rockaway,Surfing,Michah Behrend,M,33.0,UNKNOWN,15h30,Questionable,9.0,6.0,15.0,,40.5817691,-73.8302275
+2017-07-07,2017.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Nahoon Reef, East London",Surfing,Zoe Stein,F,13.0,N,15h00,"White shark, 2.5 m",7.0,4.0,15.0,0.0,-33.01529,27.91162
+2017-06-10,2017.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Bryan Brock,M,19.0,N,10h00,Unknown,6.0,5.0,10.0,0.0,29.0970105,-80.9357379
+2017-03-01,2017.0,Unprovoked,BAHAMAS,The Exuma Cays,Compass Cay,Floating,Mareen,F,,N,,Nurse shark,3.0,2.0,,0.0,24.1732835,-76.4454252
+2017-01-13,2017.0,Unprovoked,AUSTRALIA,Queensland,Clairview,Swimming,,M,57.0,N,13h30,Unknown,1.0,4.0,13.0,0.0,-22.099750787,149.522731441
+2016-12-24,2016.0,Unprovoked,AUSTRALIA,Western Australia,"Bundegi Sanctuary Zone, Ningaloo",Snorkeling,female,F,,N,Morning,a small shark,12.0,5.0,,0.0,-22.617934767,113.713612311
+2016-09-06,2016.0,Unprovoked,NEW CALEDONIA,North Province,Koumac,Kite surfing,David Jewell,M,50.0,Y,15h40,Unknown,9.0,1.0,15.0,1.0,-20.56667,164.28333
+2016-07-15,2016.0,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Swimming,male,M,,N,,Unknown,7.0,4.0,,0.0,33.8074384,-78.7152584
+2016-06-23,2016.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Ryspunt,Spearfishing,Rene Nel,M,43.0,N,,White shark,6.0,3.0,,0.0,-34.60931,20.32919
+2016-04-19,2016.0,Unprovoked,AUSTRALIA,New South Wales,"First Sun Beach, Byron Bay",Swimming,Zak Kedem,M,12.0,N,12h00,Wobbegong shark,4.0,1.0,12.0,0.0,-28.649318443,153.616858651
+2016-01-02,2016.0,Unprovoked,AUSTRALIA,Queensland,Miall Island,Spearfishing,Allan Countryman,M,31.0,N,11h30,3 m shark,1.0,5.0,11.0,0.0,-23.15222,150.90443
+2015-12-13,2015.0,Watercraft,AUSTRALIA,New South Wales,Lake Macquarie,Fishing,6 m boat: occupants  Stephen & Andrew Crust,Unknown,,N,10h30,"White shark, 3.5 m",12.0,6.0,10.0,0.0,-33.077680019,151.496800606
+2015-11-07,2015.0,Invalid,USA,Florida,"Paradise Beach, Melbourne, Brevard County",Surfing,Ryla Underwood,F,9.0,UNKNOWN,11h00,Shark involvement not confirmed,11.0,5.0,11.0,,28.12302,-80.57537
+2015-10-09,2015.0,Unprovoked,USA,Hawaii,"Leftovers, Oahu",Surfing,Colin Cook,M,25.0,N,10h25,"Tiger shark, 13'",10.0,4.0,10.0,0.0,21.439542579,-157.94363193
+2015-07-02,2015.0,Unprovoked,AUSTRALIA,New South Wales,East Ballina,Body boarding,Matt Lee,M,32,N,09h00,White shark,7.0,3.0,9.0,0.0,-28.861975125,153.585770216
+2015-06-17,2015.0,Unprovoked,USA,Florida,Daytona Beach Shores,Swimming,Gavin Simpson,M,10,N,13h00,Unknown,6.0,2.0,13.0,0.0,29.170157,-80.980442
+2015-06-01,2015.0,Unprovoked,REUNION,Le Port,Folette,Surfing,Eddy Chaussalet,M,47,N,15h00,"Bull shark, 2.5 m",6.0,0.0,15.0,0.0,-20.934675456472,55.304288918032
+2015-01-16,2015.0,Unprovoked,AUSTRALIA,New South Wales,"Mollymook Beach, Bannister Head",Filming,Sam Smith,M,17,N,,1.5 m shark,1.0,4.0,,0.0,-35.326534413,150.47097877
+2014-11-29,2014.0,Unprovoked,AUSTRALIA,Western Australia,"Pyramids Beach, Port Bouvard",Surfing,Cameron Pearman,M,13,N,Sometime between 06h00 & 08hoo,Unknown,11.0,5.0,6.0,0.0,-32.6036296,115.6310248
+2014-10-29,2014.0,Provoked,AUSTRALIA,New South Wales,Wallabi Point,Surfing,Ryan Hunt,M,20,N,18h00,Unknown,10.0,2.0,18.0,0.0,-31.994860771,152.57131187
+2014-10-14,2014.0,Unprovoked,USA,South Carolina,"Hilton Head Island, Beaufort County",Standing in inner tube,Kyra Bandy,F,7,N,,"Bull shark, 3' to 4'",10.0,1.0,,0.0,32.215401,-80.747563
+2014-10-02,2014.0,Unprovoked,USA,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",Surfing,M.M.,M,28,N,17h30,8' to 10' shark,10.0,3.0,17.0,0.0,34.747675195913,-120.518949481514
+2014-08-01,2014.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Muizenberg,Surfing,Matthew Smithers,M,20,N,14h00,White shark,8.0,4.0,14.0,0.0,-34.0999,18.45776
+2014-06-01,2014.0,Unprovoked,AUSTRALIA,New South Wales,"Seven Mile Beach, Gerroa",Surfing,Bob Smith,M,,N,Morning,Unknown,6.0,6.0,,0.0,-34.7731,150.8113
+2014-01-26,2014.0,Provoked,AUSTRALIA,New South Wales,Umina Beach,Fishing,Richard O'Connor,M,,N,,1m shark,1.0,6.0,,0.0,-33.517377822,151.315083629
+2013-11-22,2013.0,Unprovoked,USA,Oregon,"Gleneden Beach, Lincoln County",Surfing,Andrew Gardiner,M,25,N,10h30,"White shark, 10 '",11.0,4.0,10.0,0.0,44.883959,-124.034901
+2013-10-06,2013.0,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Jay Scrivner,M,45,N,08h45,"White shark, 8' to 10'",10.0,6.0,8.0,0.0,40.741892,-124.210936
+2013-06-18,2013.0,Unprovoked,USA,Hawaii,Kona Coast State Park,Swimming,James Kerrigan,M,28,N,12h50,"Tiger shark, 14'",6.0,1.0,12.0,0.0,19.7955984,-156.0213084
+2013-05-23,2013.0,Provoked,PALESTINIAN TERRITORIES,Unknown,Gaza,Fishing,Hamed Salah,M,30,N,Evening,Unknown,5.0,3.0,,0.0,31.5136482,34.4558874
+2013-03-12,2013.0,Unprovoked,JAMAICA,St. Catherine,Pillikin Red Light area,Spearfishing,George Facey,M,68,Y,09h00,"Tiger shark, 4.8 m",3.0,1.0,9.0,1.0,18.0041868,-76.9726131
+2013-03-10,2013.0,Unprovoked,PHILIPPINES,Palawan,Off Likas Island,Swimming to shore with floatioon devices after boat engine conked out,Alvin Lovido & John Paul Mangaoang,M,28 & 26,N,,small sharks,3.0,6.0,,0.0,9.978771967656,118.745126867359
+2012-11-19,2012.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Kai Rittgers,M,14,N,17h30,2' to 3' shark,11.0,0.0,17.0,0.0,28.068399,-80.558423
+2012-09-02,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,female,F,8,N,18h30,3.5' to 4' shark,9.0,6.0,18.0,0.0,29.029722,-80.9237495
+2012-08-28,2012.0,Unprovoked,AUSTRALIA,Western Australia,Red Bluff near Quobba Station,Surfing,Jon Hines,M,34,N,15h30,Unknown,8.0,1.0,15.0,0.0,-24.8982521,113.6920173
+2012-06-15,2012.0,Provoked,USA,Florida,"Summerland Key, Monroe County",Fishing,male,M,23,N,14h20,Nurse shark,6.0,4.0,14.0,0.0,24.661499,-81.443191
+2012-06-02,2012.0,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Surfing,Angelina DelRosso,F,12,N,,Unknown,6.0,5.0,,0.0,28.9485103,-80.838487
+2012-03-06,2012.0,Provoked,AUSTRALIA,Victoria,"Shipwreck Cove, Melbourne Aquarium","Diving, feeding sharks",female,F,34,N,11h30,"Tawny nurse shark, 40cm",3.0,1.0,11.0,0.0,-37.8206249,144.9582204
+2012-02-26,2012.0,Provoked,USA,Florida,"Palm Beach Inlet, Palm Beach County",Kite Surfing,Jason Lasser,M,,N,14h00,Spinner shark,2.0,6.0,14.0,0.0,26.77229,-80.03726
+2011-08-31,2011.0,Unprovoked,USA,Florida,Crescent Beach St. Johns County,Surfing,Shane Lancaster,M,19,N,11h00,6' shark,8.0,2.0,11.0,0.0,29.768745,-81.253492
+2011-05-29,2011.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Robberg Beach,Surfing,Clinton Nelson,M,33,N,,White shark,5.0,6.0,,0.0,-34.10461,23.39539
+2011-02-02,2011.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Sundays River Mouth, Port Elizabeth",Surf fishing,Johannes Jonk,M,37,N,,Unknown,2.0,2.0,,0.0,-33.96109,25.61494
+2017-10-28,2017.0,Unprovoked,AUSTRALIA,New South Wales,Birubi Point,Surfing,male,M,31.0,N,09h00,"Wobbegong shark, 1 m",10.0,5.0,9.0,0.0,-36.029142929325,146.958564954168
+2017-10-05,2017.0,Unprovoked,USA,Hawaii,"Kama‘ole Beach Park, Maui",Snorkeling,female,F,40.0,N,12h30,8' shark,10.0,3.0,12.0,0.0,20.72194,-156.45
+2017-09-15,2017.0,Unknown,SAMOA,Upolu Island,Nofoali’i,Fishing,male,M,,N,Night,Unknown,9.0,4.0,,0.0,-13.8217,-171.95873
+2016-08-27,2016.0,Unprovoked,REUNION,Unknown,Boucan Canot,Surfing,Laurent Chardard,M,20.0,N,17h00,"Bull shark, 3.5 m",8.0,5.0,17.0,0.0,-21.0283,55.22725
+2016-07-29,2016.0,Unprovoked,SPAIN,Alicante Province,Arenales del Sol,Swimming,male,M,40.0,N,11h30,Blue shark,7.0,4.0,11.0,0.0,38.25662,-0.51846
+2016-07-28,2016.0,Watercraft,AUSTRALIA,Western Australia,Near Albany,Unknown,"Kayaking, Ian Watkins",M,,N,,White shark,7.0,3.0,,0.0,-35.025111419,117.883783979
+2016-05-29,2016.0,Unprovoked,USA,California,"Corona Del Mar, Newport, Orange County",Swimming,Maria Korcsmaros,F,52.0,N,16h00,Unknown,5.0,6.0,16.0,0.0,33.606988443995,-117.874217169872
+2015-10-05,2015.0,Unprovoked,USA,Texas,Galveston,Wading,Gregory Slaughter,M,13.0,N,10h00,4' to 5' shark,10.0,0.0,10.0,0.0,29.300128,-94.795846
+2015-07-27,2015.0,Unknown,AUSTRALIA,Victoria,Tyrendarra Beach,Surfing,male,M,40.0,UNKNOWN,,Unknown,7.0,0.0,,,-38.218595687,141.796191537
+2015-07-22,2015.0,Unprovoked,REUNION,Unknown,St. Leu,Surfing,Rodolphe Arriéguy,M,45.0,N,,"Bull shark, 2m",7.0,2.0,,0.0,-21.166222526,55.28690687
+2015-06-24,2015.0,Unprovoked,AUSTRALIA,New South Wales,"Belongil Beach, Byron Bay",Surf skiing,Woody Vidgens,M,71,N,11h00,"White shark, 3 m",6.0,2.0,11.0,0.0,-28.63373,153.60035
+2014-12-28,2014.0,Invalid,SOUTH AFRICA,KwaZulu-Natal,Durban,Swimming,5 people claimed to have been injured by a baby shark,Unknown,,UNKNOWN,Morning,Shark involvement not confirmed & highly unlikely,12.0,6.0,,,-29.8579,31.0292
+2014-10-22,2014.0,Unprovoked,USA,Hawaii,"Kihei, Maui",Stand-Up Paddleboarding,Kim Lawrence,F,,N,10h00,Tiger shark,10.0,2.0,10.0,0.0,20.7814563,-156.4626867
+2014-07-20,2014.0,Unprovoked,SPAIN,Canary Islands,"Teresita, Santa Cruz, Tenerife",Wading,child,Unknown,,N,,Angel shark,7.0,6.0,,0.0,28.5070446,-16.1893959
+2014-07-13,2014.0,Invalid,BAHAMAS,West End,Tiger Beach,Shark diving,John Petty,M,63,UNKNOWN,Night,Shark involvement not confirmed,7.0,6.0,,,26.68711,-78.97702
+2014-04-15,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,Justin Davidson,M,25,N,09h57,Unknown,4.0,1.0,9.0,0.0,29.029722,-80.9237495
+2014-04-03,2014.0,Unprovoked,AUSTRALIA,New South Wales,Tathra,Swimming,Christine Armstrong,F,63,Y,08h20,3 m to 4 m white shark,4.0,3.0,8.0,1.0,-36.731499184,149.983067808
+2013-11-07,2013.0,Unprovoked,USA,New Jersey,"Bay Head, Ocean County",Body boarding,Quinn Gates,M,16,N,Afternoon,Unknown,11.0,3.0,,0.0,40.0702733,-74.0437026
+2013-10-31,2013.0,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui",Kiteboarding,Christian Brandon,M,46,N,15h19,Tiger shark,10.0,3.0,15.0,0.0,20.8970291,-156.4605383
+2013-09-07,2013.0,Provoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,John Graham,M,43,N,16h00,3' shark,9.0,5.0,16.0,0.0,29.029722,-80.9237495
+2013-07-31,2013.0,Unprovoked,USA,Hawaii,"Ulua Beach, Maui",Snorkeling,Evonne Cashman,F,56,N,08h45,Unknown,7.0,2.0,8.0,0.0,20.6903,-156.4436
+2013-06-25,2013.0,Watercraft,USA,California,"Pacific State , San Mateo County",Kayaking / Fishing,Micah Flanaburg,M,,N,15h30,White shark,6.0,1.0,15.0,0.0,37.475911136365,-122.438422729666
+2013-02-09,2013.0,Unprovoked,FRENCH POLYNESIA,Society Islands,"Tapu, a dive site on the outer reefs of Bora Bora",Scuba diving,Zohar Kritzer,M,48,N,09h00 - 09h30,Lemon shark,2.0,5.0,9.0,0.0,-16.5059584,-151.7515183
+2012-06-20,2012.0,Unprovoked,AUSTRALIA,Western Australia,"Mullaloo Beach, Perth",Surf skiing,Martin Kane,M,62,N,07h15,3 m shark,6.0,2.0,7.0,0.0,-31.7789,115.7326
+2011-11-12,2011.0,Unprovoked,BRAZIL,Pernambuco,"Punta Del Chifre Beach, Olinda",Surfing,Jerônimo Pereira da Paz,M,35,N,,Unknown,11.0,5.0,,0.0,-8.0248,-34.8574
+2011-07-25,2011.0,Unprovoked,USA,New Jersey,"Egg Harbor, Atlantic County",Wade Fishing,Eric Aubrey,M,,N,Night,Unknown,7.0,0.0,,0.0,39.52873,-74.64794
+2011-06-28,2011.0,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Aliwal Shoal,Scuba diving,Paolo Stanchi,M,22,N,12h00,"Bull shark, 3m female",6.0,1.0,12.0,0.0,-30.26041,30.82509
+2011-05-13,2011.0,Unprovoked,USA,Florida,"Ponte Vedra Beach, St Johns County",Body surfing,Bob Brown,M,86,N,15h30,Unknown,5.0,4.0,15.0,0.0,30.242809,-81.382818
+2011-05-13,2011.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Adrian Bronson,M,37,N,06h30,Unknown,5.0,4.0,6.0,0.0,29.2774764,-81.0417589
+2011-01-15,2011.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. John's",Surfing,Zama Ndamase,M,16,Y,12h30,Unknown,1.0,5.0,12.0,1.0,-31.6493491,29.5159128
+2017-12-30,2017.0,Unprovoked,USA,California,"Drakes Estero, Point Reyes, Marin County",Surfing,Natalie Jones,F,35.0,N,12h00,Unknown,12.0,5.0,12.0,0.0,38.0863134,-122.953886
+2017-11-13,2017.0,Unprovoked,AUSTRALIA,New South Wales,Avoca Beach,Surfing,Charlie Friar,M,25.0,N,16h00,2 m shark,11.0,0.0,16.0,0.0,-33.470895047,151.430842436
+2017-09-15,2017.0,Invalid,SOUTH AFRICA,Western Cape Province,Hawston,Scuba Diving,Wayon Love,M,25.0,UNKNOWN,Afternoon,Unknown,9.0,4.0,,,-34.38634,19.13099
+2017-08-26,2017.0,Watercraft,NEW ZEALAND,North Island,Off Tutukaka,Canoeing,Matt Kensington,M,,N,,Unknown,8.0,5.0,,0.0,-35.6093463,174.5249146
+2017-07-31,2017.0,Unprovoked,USA,Florida,"Jacksonvlle, Duval County",Skimboarding,Colton McCarty,M,15.0,N,18h30,Unknown,7.0,0.0,18.0,0.0,30.325968,-81.65676
+2017-06-19,2017.0,Unprovoked,USA,Florida,"Singer Island, Palm Beach County",Surfing,male,M,,N,Morning,Unknown,6.0,0.0,,0.0,26.785748,-80.037079
+2017-06-11,2017.0,Unprovoked,AUSTRALIA,Western Australia,"Point Casuarina, Bunbury",Body boarding,Paul Goff,M,48.0,N,08h30,"White shark, 4 m",6.0,6.0,8.0,0.0,-33.31667,115.63333
+2017-05-06,2017.0,Provoked,AUSTRALIA,Queensland,Weipa,Attempting to lasso a shark,Josh Neille,M,29.0,N,,9' shark,5.0,5.0,,0.0,-12.624960014,141.877709975
+2016-10-30,2016.0,Unprovoked,USA,Florida,"Mayport Naval Station Beach, Duval County",Surfing,Daniel Adams,M,41.0,N,Afternoon,Unknown,10.0,6.0,,0.0,30.378533,-81.410167
+2016-10-15,2016.0,Unprovoked,AUSTRALIA,Queensland,"Kings Beach, Caloundra",Surfing,Cooper Hallam,M,,N,18h00,Unknown,10.0,5.0,18.0,0.0,-26.80074,153.14466
+2016-09-07,2016.0,Unprovoked,USA,Hawaii,"Makaha, Oahu",Swimming,Lulu Bagnol,F,51.0,N,14h30,"Tiger shark, 10'",9.0,2.0,14.0,0.0,21.468004,-158.214988
+2016-06-05,2016.0,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Swimming,male,M,64.0,N,08h30,Unknown,6.0,6.0,8.0,0.0,29.475972,-81.1248531
+2016-06-02,2016.0,Unprovoked,AUSTRALIA,New South Wales,Kingscliff,Spearfishing,Waade Madigan and Dr Seyong Kim,M,,UNKNOWN,,Bronze whaler sharks x 3,6.0,3.0,,,-28.26463162,153.575020722
+2016-03-28,2016.0,Unprovoked,USA,Florida,"Fort Myers Beach, Lee County",Unknown,Nick Kawa,M,Teen,UNKNOWN,,Shark involvement not confirmed,3.0,0.0,,,26.452409,-81.953765
+2015-10-05,2015.0,Unprovoked,USA,Florida,"Pepper Park Beach, St. Lucie County",Body boarding,male,M,22.0,N,13h00,Unknown,10.0,0.0,13.0,0.0,27.495976,-80.300539
+2015-07-26,2015.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,Shawn Warrilow,M,25.0,N,19h00,"Blacktip or spinner shark, 4'",7.0,6.0,19.0,0.0,29.2070854,-81.0207257
+2014-10-05,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kevin Ross,M,29,N,11h30,Blacktip shark,10.0,6.0,11.0,0.0,29.029722,-80.9237495
+2014-06-18,2014.0,Unprovoked,AUSTRALIA,South Australia,"Middleton Point, Fleurieu Peninsula",Surfing,Max Longhurst,M,,N,17h01,Unknown,6.0,2.0,17.0,0.0,-35.39065,138.68357
+2013-11-07,2013.0,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Sandor Melian,M,,N,,Unknown,11.0,3.0,,0.0,27.94577,-80.496461
+2013-09-12,2013.0,Unprovoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,Storm Portman,F,13,N,13h00,3' shark,9.0,3.0,13.0,0.0,29.029722,-80.9237495
+2013-08-29,2013.0,Invalid,USA,California,Catalina Channel,Marathon swimming,Charlotte Brynn,F,47,UNKNOWN,,No shark involvement,8.0,3.0,,,33.58336,-118.38424
+2013-08-05,2013.0,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Fishing,Christian Mercurio,M,17,N,15h00,"Bull shark, 6' to 8'",8.0,0.0,15.0,0.0,26.44368,-82.10735
+2013-07-02,2013.0,Unprovoked,AUSTRALIA,Victoria,"Flinders, Mornington Penisula",Body surfing,Jimmy McDonald-Jones,M,29,N,,Unknown,7.0,1.0,,0.0,-38.454765047,144.987693038
+2013-05-23,2013.0,Unprovoked,BRAZIL,Pernambuco,Coral Cove Beach,Unknown,José Rogério da Silva,M,41,Y,,Unknown,5.0,3.0,,1.0,-8.325217431141,-37.997678124046
+2013-01-26,2013.0,Watercraft,AUSTRALIA,Victoria,Cape Nelson,Fishing,"Occupants: Andrew & Ben Donegan & Joel Ryan,",M,,N,,"White shark, 5m",1.0,5.0,,0.0,-38.43333,141.55
+2012-12-02,2012.0,Unprovoked,AUSTRALIA,New South Wales,Green Island,Spearfishing,male,M,31,N,16h45,Sandtiger shark,12.0,6.0,16.0,0.0,-35.0152,150.7679
+2012-10-18,2012.0,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui",Paddle boarding,David Peterson,M,55,N,07h30,6' to 8' shark,10.0,3.0,7.0,0.0,20.8970291,-156.4605383
+2012-09-09,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,teen,Unknown,19,N,14h20,Unknown,9.0,6.0,14.0,0.0,29.029722,-80.9237495
+2012-09-06,2012.0,Unprovoked,USA,Florida,"St. Augustine Beach, St. John's County",Surfing,Andrew Birchall,M,37,N,11h30,Unknown,9.0,3.0,11.0,0.0,29.852015,-81.267319
+2012-09-02,2012.0,Provoked,USA,Hawaii,"Spreckelsville, Maui",Spearfishing,M. Malabon,Unknown,,N,12h00,"Tiger shark, 10' to 12'",9.0,6.0,12.0,0.0,20.9073269,-156.4066558
+2012-05-06,2012.0,Unprovoked,USA,California,Off Catalina Island,Paddle boarding,Rose McKereghan,F,15,N,07h20,White shark,5.0,6.0,7.0,0.0,33.38336,-118.41758
+2012-02-25,2012.0,Unprovoked,AUSTRALIA,New South Wales,Broughton Island,Fishing,male,M,,N,16h00,Grey nurse shark,2.0,5.0,16.0,0.0,-32.61667,152.35
+2011-12-07,2011.0,Unprovoked,AUSTRALIA,New South Wales,Maroubra,Surfing,Ronald Mason,M,14,N,,Wobbegong shark,12.0,2.0,,0.0,-33.942513696,151.241541427
+2011-02-18,2011.0,Unprovoked,REUNION,Saint Gilles,Trois-Roches,Surfing,Eric Dargent,M,32,N,18h30,Unknown,2.0,4.0,18.0,0.0,-21.05203,55.22571
+2017-10-01,2017.0,Invalid,SOUTH AFRICA,Western Cape Province,Dyer Island,Scuba Diving,Bradley Fick,M,31.0,UNKNOWN,,Unknown,10.0,6.0,,,-34.6822,19.41797
+2017-08-10,2017.0,Unprovoked,USA,South Carolina,"Sea Pines Resort, Hilton Head Island, Beaufort County",Swimming,Linton Suttle,M,13.0,N,13h30,Possibly a juvenile blacktip shark,8.0,3.0,13.0,0.0,32.127936,-80.7899915
+2017-07-09,2017.0,Unprovoked,USA,Florida,"Haulover Beach, Miami-Dade County",Swimming,Elvin Lanza,M,46.0,N,15h30,"Bull shark, 4' to 5'",7.0,6.0,15.0,0.0,25.9123,-80.1213
+2017-07-07,2017.0,Provoked,MEXICO,Tabasco,"Sánchez Magallanes, Cárdenas",Fishing,Andres Ovando Rodriguez,M,32.0,N,,"Tiger shark, 100 kg",7.0,4.0,,0.0,18.294068,-93.861549
+2017-06-21,2017.0,Unprovoked,USA,South Carolina,"South Forest Beach, Hilton Head Island, Beaufort County",Swimming,Olivia Wallhauser,F,16.0,N,,Unknown,6.0,2.0,,0.0,32.137155763331,-80.764188065346
+2017-06-02,2017.0,Unprovoked,BAHAMAS,New Providence,Athol Island,Snorkeling,Tiffany Johnson,F,32.0,N,Shortly before 12h00,Tiger shark,6.0,4.0,12.0,0.0,25.08333,-77.26667
+2017-04-20,2017.0,Invalid,USA,South Carolina,Georgetown County,Swimming,male,M,,UNKNOWN,08h50,Shark involvement not confirmed,4.0,3.0,8.0,,33.412799839736,-79.299229379641
+2017-03-11,2017.0,Unprovoked,PHILIPPINES,Luzon Island,"Villamar, Caoayan",Spearfishing,Benan Reintegrado,M,25.0,N,,10' shark,3.0,5.0,,0.0,17.5334722,120.399043
+2016-07-16,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,female,F,9.0,N,1300.0,Unknown,7.0,5.0,13.0,0.0,29.029722,-80.9237495
+2016-06-15,2016.0,Provoked,AUSTRALIA,Western Australia,Coral Bay,Spearfishing,Brad Vale,M,19.0,N,,5' shark,6.0,2.0,,0.0,-23.143568033,113.772903449
+2016-05-18,2016.0,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Swimming,Mark Wilson,M,48.0,N,Morning,"Blacktip shark, 4'",5.0,2.0,,0.0,30.094227,-81.405774
+2016-04-22,2016.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Robberg Beach, Plettenberg Bay",Surf-skiing,Dave Manson,M,,N,08h00,White shark,4.0,4.0,8.0,0.0,-34.100822,23.397162
+2015-10-13,2015.0,Watercraft,USA,California,"Off Leffingwell Landing, San Luis Obispo County",Fishing,"Kayak fishing, Jordan Pavacich",M,,N,11h00,Hammerhead sp.,10.0,1.0,11.0,0.0,35.5808,-121.11908
+2015-07-23,2015.0,Unprovoked,AUSTRALIA,Victoria,Tyrendarra Beach near Portland,Surfing,male,M,40.0,N,,"Bronze whaler shark, 1.5m",7.0,3.0,,0.0,-38.218595687,141.796191537
+2015-05-29,2015.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,Dakota Hatfield,F,19,N,13h45,Unknown,5.0,4.0,13.0,0.0,29.029722,-80.9237495
+2015-04-29,2015.0,Unprovoked,USA,Hawaii,Kanahena Cove,Snorkeling,Margaret Cruse,F,65,Y,09h00,Unknown,4.0,2.0,9.0,1.0,20.66956,-156.44219
+2015-01-27,2015.0,Provoked,USA,Hawaii,Lahaina,Shark fishing,Michael Pollard,M,20,N,03h30,4' shark,1.0,1.0,3.0,0.0,20.877113,-156.681325
+2014-12-29,2014.0,Unprovoked,AUSTRALIA,Western Australia,Three Stripes near Cheynes Beach,Spearfishing,Jay Muscat,M,17,Y,Morning,"White shark, 4 to 5 m",12.0,0.0,,1.0,-31.858147388258,115.769008382116
+2014-12-28,2014.0,Provoked,AUSTRALIA,Victoria,Paradise Beach,Fishing,male,M,40s,N,Morning,1.5 m shark,12.0,6.0,,0.0,-38.189827918,147.422326598
+2014-08-06,2014.0,Unprovoked,USA,South Carolina,"Folly Beach, Charleston County",Boogie boarding,Riley Harris,M,10,N,14h00,4' tp 5' shark,8.0,2.0,14.0,0.0,32.655954,-79.941069
+2014-04-04,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,teen,N,13h30,Unknown,4.0,4.0,13.0,0.0,29.029722,-80.9237495
+2014-03-02,2014.0,Unprovoked,USA,Florida,"Santa Lucea Beach, South Hutchinson Island, St. Lucie County",Surfing,Dylan Fugitt,M,21,N,,Blacktip or spinner shark?,3.0,6.0,,0.0,27.286106,-80.223526
+2013-09-01,2013.0,Provoked,USA,Florida,Key West Aquarium,Unknown,female,F,3,N,,Nurse shark,9.0,6.0,,0.0,24.5590759,-81.8073375
+2013-06-25,2013.0,Unprovoked,USA,Florida,"Jacksonville, Duval County",Swimming,Colleen Malone,M,,N,,"Possibly a Bull shark, 3'",6.0,1.0,,0.0,30.325968,-81.65676
+2013-03-31,2013.0,Invalid,AUSTRALIA,New South Wales,Terrigal Beach,Surfing,Richard Tognetti,M,47,UNKNOWN,,No shark involvement,3.0,6.0,,,-33.4462,151.4447
+2012-09-02,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming or boogie boarding,female,F,56,N,16h30,3.5' to 4' shark,9.0,6.0,16.0,0.0,29.029722,-80.9237495
+2011-12-25,2011.0,Unprovoked,ECUADOR,Santa Elena,Barandúa Beach,Surfing,Félix Júnior Lainez Trejos,M,23,N,18h00,Unknown,12.0,6.0,18.0,0.0,-2.160393599844,-80.816703163072
+2011-12-21,2011.0,Provoked,USA,Hawaii,"Makahuena Point, Kauai",Canoeing,Keone Miyake,M,,N,,7' to 8' shark,12.0,2.0,,0.0,21.86861,-159.44436
+2017-09-06,2017.0,Unprovoked,SOLOMON ISLANDS,Unknown,Owarigi Island,Spearfishing,Bartholmew,M,,N,,Unknown,9.0,2.0,,0.0,-9.622803768,160.160289649
+2017-09-02,2017.0,Unprovoked,USA,Florida,"Marathon, Monroe County",Swimming,Ervin Maccarty,M,,N,,Nurse shark,9.0,5.0,,0.0,24.71113,-81.09472
+2017-07-20,2017.0,Unprovoked,USA,California,"Seal Rock, Goleta Beach, Santa Barbara",SUP,Rolf Geyling,M,50.0,N,07h45,"White shark, 8' to 10'",7.0,3.0,7.0,0.0,34.4162748,-119.8338425
+2017-07-11,2017.0,Watercraft,USA,California,"Santa Cruz, Santa Cruz County",Kayaking,Steve Lawson,M,,N,11h00,White shark,7.0,1.0,11.0,0.0,36.9741392,-122.028804
+2017-06-04,2017.0,Unprovoked,USA,Florida,"Middle Sambo Reef off Boca Chica, Monroe County",Spearfishing,Parker Simpson,M,,N,,8' shark,6.0,6.0,,0.0,25.135663737474,-81.519588715928
+2017-04-29,2017.0,Unprovoked,USA,South Carolina,"Folly Beach, Charleston County",Surfing,Holly Dyar,F,33.0,N,11h00,Unknown,4.0,5.0,11.0,0.0,32.655954,-79.941069
+2017-04-14,2017.0,Unprovoked,USA,Hawaii,"Kekaha Beach, Kauai",Surfing,Baboo,M,28.0,N,09h00,"Tiger shark, 12'",4.0,4.0,9.0,0.0,21.9642,-159.7089
+2016-11-28,2016.0,Provoked,AUSTRALIA,Victoria,Queenscliff,Fishing,Rod McFarlane,M,73.0,N,11h00,"Broadnose sevengill shark, 1.5 m",11.0,0.0,11.0,0.0,-38.267488026,144.656118018
+2016-10-02,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,21.0,N,11h30,Unknown,10.0,6.0,11.0,0.0,29.029722,-80.9237495
+2016-09-01,2016.0,Invalid,MEXICO,Unknown,Guadalupe Island,Cage Diving,,Unknown,,UNKNOWN,,Invalid,9.0,3.0,,,29.04521,-118.27754
+2016-07-17,2016.0,Watercraft,USA,Alabama,8 miles off Mobile,Fishing,"Fishing in Alabama Deep Fishing Rodeo, Occupant: Ben Raines",Unknown,,N,,"Tiger shark, 10'",7.0,6.0,,0.0,30.763487,-88.1269874
+2016-07-08,2016.0,Watercraft,USA,California,"Capitola, Santa Cruz County",Fishing,"Fishing for squid, Mark Davis",M,,N,,White shark,7.0,4.0,,0.0,36.973068,-121.952033
+2016-04-07,2016.0,Unprovoked,USA,Florida,"Florida Keys, Monroe County",Fishing,Jonathan Lester,M,34.0,N,,5' to 6' shark,4.0,3.0,,0.0,24.66709,-81.58314
+2016-03-03,2016.0,Unprovoked,AUSTRALIA,South Australia,Wrights Bay,Fishing,Lee Taplin,M,,N,Midnight,Bronze whaler,3.0,3.0,,0.0,-37.044616621165,139.771878952553
+2015-12-21,2015.0,Unprovoked,AUSTRALIA,New South Wales,Bondi Beach,Surfing,Dean Norburn,M,43.0,N,07h00,"Bronze whaler shark, 6'",12.0,0.0,7.0,0.0,-33.889387797,151.272464529
+2015-12-21,2015.0,Unprovoked,BRAZIL,Pernambuco,Fernano de Noronha,Scuba diving,Márcio de Castro Palma,M,32.0,N,,"Tiger shark, 1.5 m",12.0,0.0,,0.0,-3.8460421,-32.4120387
+2015-11-01,2015.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Wading,Jill Kruse,F,28.0,N,14h00,3' to 5' shark,11.0,6.0,14.0,0.0,28.320224,-80.608867
+2015-07-28,2015.0,Unprovoked,COSTA RICA,Guanacaste,Playa Grande,Surfing,Thomas McCall,M,47.0,N,,Unknown,7.0,1.0,,0.0,10.4849,-85.796
+2015-07-08,2015.0,Invalid,USA,California,"Huntington Beach, Orange County",Treading water,Eugene Finney,M,39,UNKNOWN,,Shark involvement not cofirmed,7.0,2.0,,,33.659775,-117.999313
+2015-06-30,2015.0,Unprovoked,AUSTRALIA,New South Wales,"Flat Rock, Yamba",Surfing,Steve,M,,N,,Unknown,6.0,1.0,,0.0,-35.3407,150.4776
+2015-06-25,2015.0,Provoked,AUSTRALIA,Western Australia,Rottnest Island,Swimming,Stephen,M,19,N,,Wobbegong shark,6.0,3.0,,0.0,-32.007488242,115.520328532
+2015-06-24,2015.0,Invalid,AUSTRALIA,Western Australia,Denmark,Surfing,Lily Kumpe,F,37,N,09h30,White shark,6.0,2.0,9.0,0.0,-34.960045625,117.353014699
+2015-05-29,2015.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Standing,Ashlyn Gilpin,F,14,N,15h00,Unknown,5.0,4.0,15.0,0.0,28.320224,-80.608867
+2015-04-26,2015.0,Unprovoked,USA,Florida,"Resident's Beach, Marco Island",Wading,Carsten Jessen,M,63,N,16h30,3- to 4-foot shark,4.0,6.0,16.0,0.0,25.9354292,-81.7331285
+2014-09-09,2014.0,Unprovoked,AUSTRALIA,New South Wales,"Clarkes Beach, Byron Bay",Swimming,Paul Wilcox,M,50,Y,10h45,7' shark,9.0,1.0,10.0,1.0,-28.63969,153.62728
+2014-08-31,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body surfing,Alexandra Masterson,F,13,N,16h40,Spinner shark,8.0,6.0,16.0,0.0,29.029722,-80.9237495
+2014-08-02,2014.0,Unprovoked,USA,Florida,"South of Cocoa Beach, Brevard County",Surfing,male,M,50s,N,,Unknown,8.0,5.0,,0.0,28.278673,-80.606758
+2014-06-07,2014.0,Unprovoked,USA,Texas,"West Beach, Galveston",Kneeling in the water,Mikaela Amezaga Medina,F,14,N,Afternoon,Unknown,6.0,5.0,,0.0,29.2001,-94.9418
+2014-03-18,2014.0,Unprovoked,AUSTRALIA,Victoria,Winkipop Beach,Surfing,Mark Byrne,M,42,N,Morning,Unknown,3.0,1.0,,0.0,-38.36808,144.28495
+2014-02-08,2014.0,Unprovoked,AUSTRALIA,South Australia,"Goldsmith Beach, Yorke Peninsula",Spearfishing / Free diving,Sam Kellett,M,28,Y,12h00,Unknown,2.0,5.0,12.0,1.0,-35.15153,137.68548
+2013-04-02,2013.0,Invalid,AUSTRALIA,Western Australia,Perth,Unknown,Martin Tann,M,24,UNKNOWN,,shark involvement not confirmed,4.0,1.0,,,-31.943841237,115.860522474
+2013-02-10,2013.0,Unprovoked,USA,Florida,"Stuart Rocks, Martin County",Surfing,Cole Taschman,M,16,N,14h00,"Blacktip shark, 4' to 5'",2.0,6.0,14.0,0.0,27.211719279555,-80.261725176396
+2013-01-05,2013.0,Unprovoked,AUSTRALIA,Western Australia,Near Legendre Island,Spearfishing / Free diving,Jake Swaffer,M,26,N,10h00,Unknown,1.0,5.0,10.0,0.0,-20.38811,116.8805
+2012-12-31,2012.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Swimming,male,M,,N,14h00,Unknown,12.0,0.0,14.0,0.0,27.2444691,-80.2252736
+2012-10-11,2012.0,Unprovoked,NIGERIA,Delta,Oboro,Bathing,Mrs. Torugbene-Ere Aboh,F,38,N,,Unknown,10.0,3.0,,0.0,5.187647,5.8772782
+2012-09-16,2012.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Surfing,male,M,52,N,15h00,Unknown,9.0,6.0,15.0,0.0,28.320224,-80.608867
+2012-06-14,2012.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,male,M,,N,Afternoon,Shark involvement not confirmed,6.0,3.0,,0.0,33.68785,-78.883852
+2012-03-15,2012.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Surfing,Frank Wacha,M,61,N,15h50,Possibly a 5' to 6' bull shark,3.0,3.0,15.0,0.0,27.2444691,-80.2252736
+2012-03-01,2012.0,Provoked,CHILE,Antofagasta Province,Antofagasta,Fishing (illegally),Paye León Salomón,M,,N,,Unknown,3.0,3.0,,0.0,-23.6266015,-70.390128
+2011-10-29,2011.0,Provoked,SOUTH AFRICA,KwaZulu-Natal,"uShaka Aquarium, Durban",Diving,,Unknown,,N,,Raggedtooth shark,10.0,5.0,,0.0,-29.869908,31.0448015
+2011-07-07,2011.0,Unprovoked,USA,Texas,"Sunday Beach, Matagorda Island, Calhoun  County",Swimming,Nicholas Vossler,M,12,N,17h00,Unknown,7.0,3.0,17.0,0.0,28.670634185881,-96.557673771471
+2017-11-30,2017.0,Unprovoked,COSTA RICA,Cocos Island,Manuelita,Scuba Diving,__ Jimenez,M,26.0,N,,"Tiger shark, female",11.0,3.0,,0.0,5.528,-87.06275
+2017-10-26,2017.0,Unprovoked,USA,Hawaii,"White Plains Beach, Oahu",Stand-Up Paddleboarding,T. Rodman,M,,N,15h00,Unknown,10.0,3.0,15.0,0.0,21.3035,-158.0452
+2017-05-27,2017.0,Invalid,AUSTRALIA,New South Wales,Evans Head,Fishing,Terry Selwood,M,73.0,N,,Unknown,5.0,5.0,,0.0,-29.112681283,153.42919478
+2017-01-09,2017.0,Unprovoked,INDONESIA,Bali,Balian Beach,Surfing,Daniel Moore,M,48.0,N,07h30,"Bull shark, 1 m",1.0,0.0,7.0,0.0,-8.503112,114.965582
+2016-10-24,2016.0,Unprovoked,AUSTRALIA,New South Wales,Broken Head Beach,Surfing,Jade Fitzpatrick,M,36.0,N,07h30,Unknown,10.0,0.0,7.0,0.0,-28.714981,153.61455
+2016-09-17,2016.0,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,Yuma,M,43.0,N,After noon,Unknown,9.0,5.0,,0.0,40.741892,-124.210936
+2016-05-22,2016.0,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,Mary Marcus,F,57.0,N,12h00,Unknown,5.0,6.0,12.0,0.0,27.638883,-80.38908
+2015-12-26,2015.0,Watercraft,SOUTH AFRICA,KwaZulu-Natal,Westbrook Beach,Fishing,"Kayak fishing, occupant: Grant Wardell",M,,N,Morning,"White shark, 3 m",12.0,5.0,,0.0,-29.5805313,31.1788593
+2015-07-26,2015.0,Invalid,USA,South Carolina,"Edisto Beach, Colleton County",Floating,female,F,35.0,UNKNOWN,10h10,"Thought to involve a 3' to 4' shark, but shark involvement not confirmed",7.0,6.0,10.0,,32.4824626,-80.3279385
+2015-05-03,2015.0,Unprovoked,AUSTRALIA,New South Wales,Saltwater Beach,Surfing,Bruce Lucas,M,,N,15h00,White shark,5.0,6.0,15.0,0.0,-31.9973812,152.5709653
+2015-01-23,2015.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Nahoon Beach,Floating,Christiaan Nel,M,24,N,Afternoon,Unknown,1.0,4.0,,0.0,-32.9871,27.93823
+2015-01-03,2015.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Chintsa East Beach,Surfing,Jason Krafft,M,15,N,08h00,"Raggedtooth shark, 1.3 m",1.0,5.0,8.0,0.0,-33.59786,26.90536
+2014-06-09,2014.0,Unprovoked,BRAZIL,Unknown,500 km off the coast of Pernambuco,Fishing,Sunarko,M,43,N,,Unknown,6.0,0.0,,0.0,-1.46554,-48.01583
+2014-03-18,2014.0,Invalid,AUSTRALIA,New South Wales,Lennox Head,Unknown,Nyxie Ryan,F,10,UNKNOWN,17h00,No shark involvement,3.0,1.0,17.0,,-28.813397609,153.596179398
+2014-01-01,2014.0,Watercraft,NEW ZEALAND,Unknown,Stewart Island,Filming a documentary,Dinghy. Occupants: Jeff Kurr and Andy Casagrande,Unknown,,N,,"White shark, 6 m",1.0,2.0,,0.0,-46.898518146,168.124291069
+2013-07-19,2013.0,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Walking in surf,Laura Havrylkoff,F,50,N,14h30,Unknown,7.0,4.0,14.0,0.0,30.272469,-87.68743
+2013-06-06,2013.0,Provoked,USA,Florida,"Off Snipe Point, Florida Keys, Monroe County",Fishing for sharks,Walter Kefauver,M,58,N,,"Lemon shark, 4'",6.0,3.0,,0.0,25.102198176345,-80.435459810221
+2012-07-06,2012.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Sandstrand, Jongensfontein",Surfing,Jacque Mostert,M,29,N,16h30,15' shark,7.0,4.0,16.0,0.0,-34.42562,21.33995
+2012-01-27,2012.0,Unprovoked,USA,Hawaii,Lanai,Snorkeling,J. Graden,Unknown,,N,11h05,6' to 8' shark,1.0,4.0,11.0,0.0,20.82757,-156.92399
+2011-08-16,2011.0,Unprovoked,FRENCH POLYNESIA,Society Islands,"Teahupoo, Tahiti",Surfing,Adam 'Biff' D'Esposito,M,32,N,15h30,Grey reef shark,8.0,1.0,15.0,0.0,-17.84645,-149.26682
+2011-06-06,2011.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,Alan McIntosh,M,19,N,12h00,3' to 4' shark,6.0,0.0,12.0,0.0,29.029722,-80.9237495
+2011-05-30,2011.0,Unprovoked,USA,Texas,"Follett's Island, Brazoria County",Standing or boogie boardin,Kori Robertson,F,22,N,15h00,Unknown,5.0,0.0,15.0,0.0,29.04247,-95.16965
+2011-04-13,2011.0,Unprovoked,INDONESIA,Bali,Balian,Surfing,Joe Ferrar,M,,N,Morning,"Bull shark, 2.5 m",4.0,2.0,,0.0,-8.5037,114.9708
+2017-07-14,2017.0,Unprovoked,AUSTRALIA,Western Australia,Floreat Beach,Surfing,male,M,,N,11h45,Unknown,7.0,4.0,11.0,0.0,-31.929,115.7549
+2017-06-10,2017.0,Unprovoked,AUSTRALIA,Victoria,"Flinders, Mornington Penisula",Surfing,female,F,,N,15h45,Seven-gill shark,6.0,5.0,15.0,0.0,-38.454765047,144.987693038
+2017-04-17,2017.0,Unprovoked,AUSTRALIA,Western Australia,Kelpies near Wylie Bay,Surfing,Laeticia Brouwer,F,17.0,Y,16h00,White shark,4.0,0.0,16.0,1.0,-25.474315693,122.184309326
+2017-03-27,2017.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Robert Nesbit,M,58.0,N,10h00,Unknown,3.0,0.0,10.0,0.0,29.029722,-80.9237495
+2016-09-18,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chucky Luciano,M,36.0,N,11h00,Unknown,9.0,6.0,11.0,0.0,29.029722,-80.9237495
+2016-08-29,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,37.0,N,14h00,Unknown,8.0,0.0,14.0,0.0,29.029722,-80.9237495
+2015-11-16,2015.0,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Aaron Conti,M,,N,Afternoon,Unknown,11.0,0.0,,0.0,28.7021316,-80.6671512
+2015-10-21,2015.0,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,Michael Salinger,M,21.0,N,14h30,5' shark,10.0,2.0,14.0,0.0,28.7021316,-80.6671512
+2015-09-20,2015.0,Unprovoked,USA,Hawaii,"Upolu Point, North Kohala, Big Island",Spearfishing,Braxton Rocha,M,27.0,N,15h52,"Tiger shark, 13'",9.0,6.0,15.0,0.0,20.13195,-155.79389
+2015-06-30,2015.0,Unprovoked,USA,South Carolina,"Isle of Palms County Park, Isle of Palms, Charleston County",Playing in the water,Kysen Weakley,M,12,N,18h05,4' to 5' shark,6.0,1.0,18.0,0.0,32.7875771,-79.7870676
+2015-03-26,2015.0,Watercraft,SOUTH AFRICA,Eastern Cape Province,Yellow Sands Point,Kayak Fishing,Kayak: Occupant Kelly Janse van Rensburg,M,36,N,,"White shark, 4 m",3.0,3.0,,0.0,-32.57198,28.55206
+2015-01-24,2015.0,Unprovoked,AUSTRALIA,New South Wales,Flat Rock,Surfing,Hamish Murray,M,,N,,Unknown,1.0,5.0,,0.0,-35.3407,150.4776
+2014-11-10,2014.0,Unprovoked,AUSTRALIA,New South Wales,Moonee Beach,Surfing,male,M,,N,06h30,Unknown,11.0,0.0,6.0,0.0,-30.208476167,153.1531743
+2014-10-07,2014.0,Unprovoked,USA,Florida,"Cherie Down Park, Brevard County",Fishing,female,F,40,N,Afternoon,Unknown,10.0,1.0,,0.0,28.3921309,-80.597012
+2014-03-12,2014.0,Unprovoked,AUSTRALIA,New South Wales,Lighthouse Beach,Swimming,Mike Porter,M,,N,18h00,Wobbegong shark,3.0,2.0,18.0,0.0,-33.280744,151.574377
+2013-10-08,2013.0,Unprovoked,AUSTRALIA,Western Australia,"Off Poison Creek, Cape Arid",Diving for Abalone,Greg Pickering,M,55,N,10h30,White shark,10.0,1.0,10.0,0.0,-33.924049153209,123.306407236581
+2013-09-29,2013.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,male,M,50,N,10h00,Unknown,9.0,6.0,10.0,0.0,28.068399,-80.558423
+2012-10-10,2012.0,Unprovoked,USA,California,"Davenport Landing, Santa Cruz County",Windsurfing,Gunner Proppe,M,42,N,18h30,Unknown,10.0,2.0,18.0,0.0,37.024394,-122.215803
+2012-09-24,2012.0,Unprovoked,USA,Florida,"Spanish House Beach, Brevard County",Surfing,Brandon Murray,M,22,N,Afternoon,4' shark,9.0,0.0,,0.0,28.260537,-80.604742
+2012-09-04,2012.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,male,M,32,N,07h56,Unknown,9.0,1.0,7.0,0.0,28.068399,-80.558423
+2012-07-30,2012.0,Unprovoked,USA,Hawaii,"Maha‘ulepu Beach, Kauai",Surfing,Steve Stotts,M,44,N,16h35,Unknown,7.0,0.0,16.0,0.0,21.88942,-159.41242
+2012-06-26,2012.0,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Swimming,Nickolaus Bieber,M,6,N,19h00,possibly a bull shark,6.0,1.0,19.0,0.0,26.883875,-80.059723
+2012-05-12,2012.0,Watercraft,USA,California,"Leffingwell Landing, Cambria,  San Luis Obispo County",Kayaking / Fishing,Joey Nocchi,M,30,N,14h30,White shark,5.0,5.0,14.0,0.0,35.5838357,-121.1214314
+2012-03-31,2012.0,Unprovoked,AUSTRALIA,Western Australia,Stratham Beach,Scuba diving,Peter Kurmann,M,33,Y,09h30,"White shark, 4m",3.0,5.0,9.0,1.0,-33.466750662151,115.593223302818
+2012-03-24,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joey Coppola,M,21,N,14h00,Unknown,3.0,5.0,14.0,0.0,29.029722,-80.9237495
+2011-09-30,2011.0,Invalid,USA,Puerto Rico,Hatillo Beach,Surfing,Rafael Colón Casanova,M,27,UNKNOWN,09h50,No shark involvement,9.0,4.0,9.0,,18.489309,-66.794475
+2011-05-07,2011.0,Invalid,UNITED ARAB EMIRATES (UAE),Umm al Qaywayan Province,Khor Fakkan,Fishing,Mustafa Al Hammadi,M,43,UNKNOWN,,Invalid,5.0,5.0,,,25.5,55.75
+2011-02-23,2011.0,Unprovoked,NEW CALEDONIA,Loyalty Islands,"Bay of Bweedro, Ouvéa",Spearfishing,Jean-Luc Majele,M,21,N,Early afternoon,1.5 m shark,2.0,2.0,,0.0,-20.6617,166.55308
+2017-10-23,2017.0,Unprovoked,MAURITIUS,Pamplemousses,Le Goulet,Swimming,male,M,,N,Afternoon,Unknown,10.0,0.0,,0.0,-20.1033863,57.5179654
+2017-10-22,2017.0,Unprovoked,AUSTRALIA,South Australia,Normanville,Kayaking / Fishing,Sarah Williams,F,15.0,N,Afternoon,"White shark, 4.5 m",10.0,6.0,,0.0,-35.469398689,138.297427252
+2017-08-23,2017.0,Unprovoked,USA,Massachusetts,"Marconi Beach, Wellfleet, Barnstable County",SUP,Cleveland Bigelow,M,69.0,N,10h00,"White shark, 5' to 7'",8.0,2.0,10.0,0.0,41.8910875,-69.96351
+2017-01-24,2017.0,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem, Recife",Swimming,Arthur Andrade,M,21.0,N,13h20,Unknown,1.0,1.0,13.0,0.0,-8.1147257,-34.8917377
+2016-07-20,2016.0,Provoked,AUSTRALIA,Queensland,"20 k off The Spit, off the Gold Coast",Fishing,Scott van Burck,M,31.0,N,After noon,"reef shark, 1m",7.0,2.0,,0.0,-28.003035820091,153.340926707415
+2016-07-06,2016.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,female,F,42.0,N,14h30 / 15h30,Unknown,7.0,2.0,14.0,0.0,28.068399,-80.558423
+2016-06-21,2016.0,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Floating,Jeff Schott,M,42.0,N,15h25,3' to 5' shark,6.0,1.0,15.0,0.0,33.8074384,-78.7152584
+2016-03-30,2016.0,Unprovoked,AUSTRALIA,New South Wales,Bombo Beach,Surfing,Brett Connellan,M,22.0,N,19h00,Unknown,3.0,2.0,19.0,0.0,-34.659007,150.854459
+2015-10-09,2015.0,Unprovoked,USA,South Carolina,"Shipyard Beach Club, Hilton Head Island, Beaufort County",Boogie boarding,Meti Kershner,F,9.0,N,16h20,Unknown,10.0,4.0,16.0,0.0,32.154981068326,-80.738012717321
+2015-09-17,2015.0,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,Bryan Liebetrau,M,20.0,N,15h00,Unknown,9.0,3.0,15.0,0.0,30.2881812,-81.3920144
+2015-08-20,2015.0,Unprovoked,USA,South Carolina,"Murrells Inlet, Georgetown County",Surfing,Dylan Peyton,M,15.0,N,12h30,4' shark,8.0,3.0,12.0,0.0,33.551824,-79.048357
+2015-06-27,2015.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Buffels Bay near Knysna,Body Boarding,Caleb Swanepoel,M,19,N,14h40,White shark,6.0,5.0,14.0,0.0,-33.56667,18.35
+2015-04-03,2015.0,Unprovoked,USA,Florida,"3 miles off Jupiter, Palm Beach County",Spearfishing,Rick Neumann,M,70,N,Afternoon,Bull shark,4.0,4.0,,0.0,26.9341448,-80.0997362
+2015-01-19,2015.0,Watercraft,USA,Florida,Off Panama City,Fishing,22-ft boat.  Occupant Captain Scott Fitzgerald,M,,N,,White shark,1.0,0.0,,0.0,30.1852107,-85.7308328
+2014-08-28,2014.0,Provoked,USA,Maryland,Assateague National Seashore,Fishing,Mathew Vickers,M,33,N,,Unknown,8.0,3.0,,0.0,38.2060778,-75.1546498
+2014-07-21,2014.0,Unprovoked,USA,Florida,"Indialantic, Brevard County",Standing,Aayden Crick,M,8,N,Early afternoon,Unknown,7.0,0.0,,0.0,28.0894482,-80.5660328
+2012-12-28,2012.0,Unprovoked,AUSTRALIA,New South Wales,"Kylie's Beach, Diamond Head",Paddle boarding,Luke Allan,M,29,N,10h45,"Bull shark, 2m",12.0,4.0,10.0,0.0,-31.718949063,152.794486937
+2012-07-19,2012.0,Invalid,CANADA,British Colombia,"Tofino, Vancouver",Surfing,Kaitlin Dakers,F,23,UNKNOWN,,"Salmon shark suspected, but unlikely",7.0,3.0,,,49.261636,-123.11335
+2012-03-05,2012.0,Unprovoked,REUNION,Saint-Benoit,Port de la Marine,Body boarding,Gerard Itema,M,31,N,14h30,Unknown,3.0,0.0,14.0,0.0,-21.009910286764,55.699326724972
+2011-12-06,2011.0,Unprovoked,USA,Oregon,Seaside Cove,Surfing,female,F,,N,09h00,Unknown,12.0,1.0,9.0,0.0,45.9757796,-123.9393377
+2011-06-21,2011.0,Unprovoked,USA,Florida,"Perdido Key, Escambia County",Jet skiing,Tyler McConnell,M,20,N,Afternoon,Unknown,6.0,1.0,,0.0,30.3002,-87.42748
+2011-05-21,2011.0,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Levan Point,Spearfishing,Warren Smart,M,28,Y,Midday,Zambesi shark,5.0,5.0,,1.0,-27.92519,32.59456
+2011-04-08,2011.0,Unprovoked,FIJI,Vitu Levu,"Malake Island, Ra Province",Diving,Etuate Caucau,M,27,N,Afternoon,Unknown,4.0,4.0,,0.0,-17.32225,178.14352
+2017-09-25,2017.0,Unprovoked,USA,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,Justin White,M,,N,Morning,5' shark,9.0,0.0,,0.0,30.343416819393,-81.83549194372
+2017-08-01,2017.0,Watercraft,USA,California,"Between Pescadero Point & Bean Hollow Beach, San Mateo County",Fishing,"Kayak Fishing, Patrick Conroy",M,,N,10h45,"White shark, 10'",8.0,1.0,10.0,0.0,37.250009489828,-122.396111722289
+2017-07-20,2017.0,Invalid,USA,South Carolina,"Hilton Head Island, Beaufort County",Swimming,Ellie Rogier,F,8.0,UNKNOWN,,Shark involvement not confirmed,7.0,3.0,,,32.215401,-80.747563
+2017-04-05,2017.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,Melanie Lawson,F,51.0,N,13h00,Unknown,4.0,2.0,13.0,0.0,29.029722,-80.9237495
+2016-10-21,2016.0,Unprovoked,USA,Hawaii,"Hooipa Beach Park, Maui",Surfing,Federico Jaime,M,36.0,N,17h00,6' to 8' shark,10.0,4.0,17.0,0.0,20.93667,-156.36056
+2016-09-18,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,16.0,N,13h00,Unknown,9.0,6.0,13.0,0.0,29.029722,-80.9237495
+2016-09-17,2016.0,Unprovoked,AUSTRALIA,Victoria,Thirteenth Beach,Surfing,Rory Angiolella,M,,N,,Unknown,9.0,5.0,,0.0,-38.287921,144.4853177
+2016-04-13,2016.0,Unprovoked,USA,Florida,"Off Singer Island, Palm Beach County",Spearfishing,Kyle Senkowicz,M,26.0,N,,"Bull shark, 7'",4.0,2.0,,0.0,26.785748,-80.037079
+2016-03-10,2016.0,Unprovoked,Fiji,Vanua Levu,Dawara,Diving for beche-de-mer,Maika Tabua,M,45.0,Y,Afternoon,Unknown,3.0,3.0,,1.0,-19.1543,178.08988
+2015-10-19,2015.0,Unprovoked,USA,Florida,"Deerfield Beach, Broward County",Surfing,Peter Kirn,M,21.0,N,13h50,"Spinner shark, 5'",10.0,0.0,13.0,0.0,26.3205843,-80.0997809
+2015-10-17,2015.0,Invalid,USA,Hawaii,"Waikiki,",Surfing,male,M,32.0,UNKNOWN,19h20,No shark involvement,10.0,5.0,19.0,,21.284823,-157.832452
+2015-09-20,2015.0,Unprovoked,USA,Florida,"Vilano Beach, St.  Johns County",Photographing fish,Filippo Schiavo,M,16.0,N,07h30,Unknown,9.0,6.0,7.0,0.0,29.9354428,-81.3019633
+2015-08-10,2015.0,Provoked,USA,California,Cortes Bank,Spearfishing,Richard Shafer,M,57.0,N,08h00,Hammerhead shark. 6' to 7',8.0,0.0,8.0,0.0,37.9976013563,-122.242399196998
+2015-06-26,2015.0,Invalid,USA,Florida,"Jacksonville Beach, Duval County",Swimming,female,F,,UNKNOWN,19h30,Shark involvement not confirmed,6.0,4.0,19.0,,30.2881812,-81.3920144
+2015-06-19,2015.0,Unprovoked,PUERTO RICO,Unknown,Off Cabo Rojo,Spearfishing,Benjamin Rios,M,36,N,Morning,Unknown,6.0,4.0,,0.0,18.023145822149,-67.185767947551
+2015-05-15,2015.0,Unprovoked,USA,South Carolina,Sullivan's Island,Unknown,male,M,30,N,14h15,6' shark,5.0,4.0,14.0,0.0,32.762889,-79.83623
+2015-04-11,2015.0,Unprovoked,AUSTRALIA,New South Wales,McKenzies Beach,Paddle boarding,male,M,,N,07h30,Unknown,4.0,5.0,7.0,0.0,-35.8044,150.2264
+2015-01-17,2015.0,Watercraft,AUSTRALIA,New South Wales,Off Blacksmith Beach,Fishing,Boat: occupants: Tim Watson & Allan de Sylva,M,,N,13h45,5 m shark,1.0,5.0,13.0,0.0,-33.05159,151.66805
+2014-07-12,2014.0,Unprovoked,USA,North Carolina,"Masonboro Island, New Hanover County",Body surfing,Carson Jewell,M,,N,,Unknown,7.0,5.0,,0.0,34.12545,-77.85804
+2014-05-13,2014.0,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Wading,Mihaela Cosa,F,44,N,11h00,Unknown,5.0,1.0,11.0,0.0,30.2881812,-81.3920144
+2013-02-27,2013.0,Unprovoked,NEW ZEALAND,North Island,Muriwai,Swimming,Adam Strange,M,46,Y,13h24,"White shark, 4m",2.0,2.0,13.0,1.0,-39.6744011,176.8875369
+2012-12-05,2012.0,Unprovoked,USA,Hawaii,Kauai,Surfing,Lorrin,M,60,N,13h20,10' shark,12.0,2.0,13.0,0.0,22.04942,-159.53099
+2012-07-21,2012.0,Invalid,TRINIDAD & TOBAGO,Trinidad,"Off Radix Village, Mayoro County",Swimming,Shaka Galera,M,24,UNKNOWN,,Unknown,7.0,5.0,,,21.8010839,-79.981301
+2013-04-01,2012.0,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Unknown,Dylan Hapworth,M,,N,,a small shark,4.0,0.0,,0.0,26.44368,-82.10735
+2012-03-04,2012.0,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Kite Surfing,Justin Worral,M,19,N,13h00,4' shark,3.0,6.0,13.0,0.0,28.7021316,-80.6671512
+2011-09-16,2011.0,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,Daniel Jorgensen,M,25,N,11h00,4' to 6' shark,9.0,4.0,11.0,0.0,29.029722,-80.9237495
+2011-09-02,2011.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Daniel True,M,19,N,11h00,"6' shark, possibly a blactip or spinner shark",9.0,4.0,11.0,0.0,29.029722,-80.9237495
+2011-06-19,2011.0,Unprovoked,TURKS & CAICOS,Caicos Bank,French Cay,Spearfishing,Cefor Lewis,M,35,N,,5' shark,6.0,6.0,,0.0,21.50705,-72.20133
+2017-08-03,2017.0,Provoked,USA,Massachusetts,"Menauhant Beach, Falmouth,
+Barnstable County",Fishing,male,M,34.0,N,23h30,4' shark,8.0,3.0,23.0,0.0,41.54928,-70.55475
+2017-07-23,2017.0,Unprovoked,SPAIN,Majorca,"Estanys Beach, Colonia de Sant",Swimming,female,F,,N,Afternoon,Blue shark 6',7.0,6.0,,0.0,39.61362,3.02004
+2017-01-01,2017.0,Unprovoked,FRENCH POLYNESIA,Marquesas,"Atuona Bay, Hiva Oa Island",Surfing,male,M,,N,,Unknown,1.0,6.0,,0.0,-9.80342,-139.04202
+2017-04-13,2017.0,Unprovoked,USA,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,Keeanan Perry,M,17.0,N,13h30,Unknown,4.0,3.0,13.0,0.0,30.343416819393,-81.83549194372
+2016-06-07,2016.0,Invalid,USA,South Carolina,"Folly Beach, Charleston County",Surfing,Jack O'Neill,M,27.0,UNKNOWN,11h30,Said to involve an 8' shark but more likely damage caused by debris,6.0,1.0,11.0,,32.655954,-79.941069
+2016-02-19,2016.0,Unprovoked,NEW CALEDONIA,South Province,Yate,Spearfishing,male,M,31.0,N,16h00,Unknown,2.0,4.0,16.0,0.0,-22.08333,166.75
+2015-10-17,2015.0,Unprovoked,USA,Hawaii,"Lanikai Beach, Kailua, Oahu",Swimming,Tony Lee,M,44.0,N,11h30,"Tiger shark, 7'",10.0,5.0,11.0,0.0,21.3930763,-157.7157575
+2015-07-23,2015.0,Provoked,USA,California,"La Jolla, San Diego County",Kayak Fishing,Austin Lorber,M,31.0,N,,"Mako shark, 100-lb",7.0,3.0,,0.0,32.8419914,-117.2730168
+2015-07-04,2015.0,Unprovoked,BAHAMAS,Grand Bahama Island,"Port Lucaya, Freeport",Spearfishing,Katie Hester,F,23,N,,6' shark,7.0,5.0,,0.0,26.5210127,-78.7701719
+2015-05-07,2015.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,Josh Green,M,,N,15h00,Unknown,5.0,3.0,15.0,0.0,28.320224,-80.608867
+2015-02-08,2015.0,Unprovoked,AUSTRALIA,New South Wales,"Seven Mile Beach, Byron Bay",Surfing,Jacob Reitman,M,35,N,06h45,2 m to  3 m shark,2.0,6.0,6.0,0.0,-28.718553516768,153.611916298523
+2014-11-19,2014.0,Watercraft,AUSTRALIA,Western Australia,Freo,Fishing,Boat: occupants: David Lock & his father,M,,N,,White shark,11.0,2.0,,0.0,-25.474315693,122.184309326
+2014-09-01,2014.0,Unprovoked,SPAIN,Catalonia,Salou,Playing with an air mattress,male,M,16,N,,Unknown,9.0,0.0,,0.0,41.0766628,1.1446272
+2014-08-29,2014.0,Invalid,USA,Florida,"Atlantic Beach, Duval County",Unknown,child,Unknown,,UNKNOWN,16h18,Shark involvement not confirmed,8.0,4.0,16.0,,30.3336079,-81.397624
+2014-08-27,2014.0,Unprovoked,SPAIN,Alicante,Benidorm,Swimming,Raquel Martin,F,30s,N,,small shark,8.0,2.0,,0.0,38.5369002,-0.1291231
+2014-07-27,2014.0,Unprovoked,USA,North Carolina,"Sunset Beach, Brunswick County",Swimming,male,M,Teen,N,,Possibly juvenile tiger shark,7.0,6.0,,0.0,33.8924012,-78.5032644
+2014-07-16,2014.0,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Swimming,male,M,61,N,17h50,6' to 8' shark,7.0,2.0,17.0,0.0,20.91697,-156.38332
+2014-05-06,2014.0,Unprovoked,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,Kimberly Popp,F,40,N,15h00,4' to 5' shark,5.0,1.0,15.0,0.0,32.14159,-80.751068
+2013-11-10,2013.0,Provoked,BAHAMAS,Unknown,Off Cape Eleuthera,Shark fishing,male,M,77,N,11h00,Unknown,11.0,6.0,11.0,0.0,25.562300966667,-76.718714533333
+2013-10-11,2013.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Albatros Point, near Jeffrey's Bay",Swimming / snorkeling,Burgert Van Der Westhuizen,M,74,Y,11h30,White shark,10.0,4.0,11.0,1.0,-32.31911,25.55623
+2013-09-25,2013.0,Unprovoked,USA,Florida,"Panama City, Bay County",Standing,Ethan Hand,M,7,N,10h30,Unknown,9.0,2.0,10.0,0.0,30.1852107,-85.7308328
+2013-07-28,2013.0,Unprovoked,BAHAMAS,Abaco Islands,Grand Cay,Diving,male,M,50,N,11h15,Unknown,7.0,6.0,11.0,0.0,27.22727,-78.33653
+2012-09-10,2012.0,Unprovoked,TONGA,Vava'u,Eueiki Island,Swimming,Kylie Maguire,F,29,N,,Possibly a 3 m bull shark,9.0,0.0,,0.0,-18.76685,-174.01902
+2012-04-11,2012.0,Watercraft,AUSTRALIA,South Australia,"Dolphin Bay, Innes National Park",Kayaking,Michael Demasi,M,27,N,,"White shark, 6m",4.0,2.0,,0.0,-35.28551,136.89956
+2012-03-22,2012.0,Watercraft,AUSTRALIA,Western Australia,Kalbarri,Crayfishing,crayfish boat. Occupants: Dave & Mitchell Duperouzel:,Unknown,,N,05h50,White shark,3.0,3.0,5.0,0.0,-27.754125409,114.146697473
+2011-10-20,2011.0,Unprovoked,USA,Oregon,"Newport, Lincoln County",Surfing,Bobby Gumm,M,41,N,,"White shark, 15'",10.0,3.0,,0.0,44.6365534,-124.0544474
+2011-09-17,2011.0,Unprovoked,KENYA,Coast Province,"Mama Ngina Beach, Mombasa",Swimming,,M,17,Y,,Unknown,9.0,5.0,,1.0,-4.069866609041,39.680486582772
+2011-08-26,2011.0,Unprovoked,RUSSIA,Primorsky Krai,Slavyanka,"Standing, collecting sea stars",Pavel Nechaev,M,,N,Morning,Unknown,8.0,4.0,,0.0,42.8739797,131.3793514
+2011-02-12,2011.0,Unprovoked,AUSTRALIA,Western Australia,Exmouth,Snorkeling,Allen ___,M,58,N,Late afternoon,Unknown,2.0,5.0,,0.0,-21.93493683,114.121875653
+2011-01-20,2011.0,Invalid,AUSTRALIA,New South Wales,Cudgen Creek,Swimming,Mia Merlini,F,7,UNKNOWN,17h00,Shark involvement not confirmed,1.0,3.0,17.0,,-28.26111,153.58276
+2017-09-02,2017.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Chase Elmore,M,17.0,N,10h44,Unknown,9.0,5.0,10.0,0.0,29.029722,-80.9237495
+2016-10-12,2016.0,Unprovoked,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",Surfing,Seneca Rus,M,25.0,N,10h30,Unknown,10.0,2.0,10.0,0.0,-28.837749,153.604367
+2016-04-18,2016.0,Provoked,FRENCH POLYNESIA,Tuamotos,Makemo Atoll,Spearfishing,Teva Tokoragi,M,26.0,N,Morning,"Grey reef shark, 2 m",4.0,0.0,,0.0,-16.59836,-143.72349
+2016-03-13,2016.0,Invalid,USA,California,"Bolsa Chica State Park, Orange County",Surfing,unknown,Unknown,,UNKNOWN,Morning,Shark involvement not confirmed,3.0,6.0,,,33.7109249,-118.0654702
+2016-02-04,2016.0,Unprovoked,AUSTRALIA,New South Wales,Hams Beach,Windsurfing,Andrew Morris,M,40.0,N,Late afternoon,Unknown,2.0,3.0,,0.0,-33.0975,151.6581
+2015-12-22,2015.0,Unprovoked,USA,Hawaii,La'aloa Beach Park,Paddle boarding,Robert Ford,M,71.0,N,Morning,9' shark,12.0,1.0,,0.0,19.5937997,-155.9715584
+2015-07-25,2015.0,Unprovoked,AUSTRALIA,Tasmania,"Lachan Island, Mercury Passage",Scallop diving on hookah,Damien Johnson,M,46.0,Y,10h00,"White shark, 3.9 to 4.2 m",7.0,5.0,10.0,1.0,-42.67472,147.9775
+2015-07-19,2015.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Jeffrey's Bay,Surfing,Mick Fanning,M,34.0,N,,White shark,7.0,6.0,,0.0,-34.04526,24.92146
+2015-06-27,2015.0,Unprovoked,USA,North Carolina,"Rodanthe, Dare County",Swimming,John Cole,M,18,N,16h00,Bull shark,6.0,5.0,16.0,0.0,35.594871,-75.467858
+2015-06-05,2015.0,Unprovoked,USA,Florida,Fort Lauderdale,Attempting to rescue a shark,female,F,17,N,,small nurse shark,6.0,4.0,,0.0,26.1241631,-80.1435862
+2014-12-03,2014.0,Provoked,SPAIN,Granada,Off Motril,Fishing for blue sharks,male,M,,N,07h00,Unknown,12.0,2.0,7.0,0.0,36.7446588,-3.5166661
+2014-11-16,2014.0,Unprovoked,USA,Florida,"Indian Harbor Beach, Brevard County",Surfing,male,M,44,N,13h00,2' shark,11.0,6.0,13.0,0.0,28.152451,-80.590172
+2014-09-12,2014.0,Unprovoked,FRENCH POLYNESIA,Moorea,Tiahura Lagoon,Feeding fish,female,F,36,N,,Blacktip shark,9.0,4.0,,0.0,-17.49291,-149.89705
+2014-09-03,2014.0,Watercraft,USA,Massachusetts,"Manomet Point, Plymouth, Plymouth County",Kayaking,Ida Parker & Kristen Orr,F,20s,N,18h00,"White shark, 12' to 14'",9.0,2.0,18.0,0.0,41.92677,-70.53892
+2014-04-24,2014.0,Unprovoked,AUSTRALIA,Western Australia,"South Passage, south of Coral Bay",Spearfishing,male,M,,N,,reef shark?,4.0,3.0,,0.0,-22.698840663739,117.797677147893
+2013-12-02,2013.0,Unprovoked,USA,Hawaii,"Between  Makena & Molokini, Maui",Kayaking / Fishing,Patrick Briney,M,57,Y,09h00,Unknown,12.0,0.0,9.0,1.0,20.6558129,-156.4382664
+2013-09-08,2013.0,Unprovoked,USA,South Carolina,"St. Helena Island, Beaufort County",Unknown,female,F,,UNKNOWN,,Unknown,9.0,6.0,,,32.427134,-80.469145
+2013-07-07,2013.0,Invalid,SPAIN,Catalonia,"Sant Marti d’Empuries Beach, L’Escala",Swimming,Thierry Frennet,M,48,UNKNOWN,,Shark involvement not confirmed,7.0,6.0,,,42.1399046,3.1180566
+2012-12-01,2012.0,Unprovoked,NEW ZEALAND,South Island,"Sunday Cove, Fiordland",Scuba diving,Jenny Oliver,F,25,N,,Seven-gill shark,12.0,5.0,,0.0,-45.416868,167.7123079
+2012-07-31,2012.0,Unprovoked,AUSTRALIA,South Australia,Streaky Bay,Surfing,John Campion,M,48,N,14h40,White shark or bronze whaler,7.0,1.0,14.0,0.0,-32.796484616,134.212635779
+2012-06-03,2012.0,Unprovoked,AUSTRALIA,New South Wales,"Redhead Beach, Newcastle",Surf skiing,Mark Ayre,M,30,N,14h30,"White shark, 2 m",6.0,6.0,14.0,0.0,-33.02048,151.70915
+2012-05-16,2012.0,Unprovoked,FIJI,Unknown,Matacucu Reef,Spearfishing,Tevita Naborisi,M,20,N,,Unknown,5.0,2.0,,0.0,-16.12558,-179.6605
+2012-01-03,2012.0,Unprovoked,AUSTRALIA,New South Wales,North Avoca Beach,Surfing,Mike Wells,M,28,N,20h00,2 m shark,1.0,1.0,20.0,0.0,-33.457302908629,151.439564941063
+2011-12-21,2011.0,Watercraft,SOUTH AFRICA,Eastern Cape Province,"Noordhoek, Port Elizabeth",Kayak Fishing,Werner Coetzee,M,35,N,Dawn,Unknown,12.0,2.0,,0.0,-33.96109,25.61494
+2011-11-29,2011.0,Unprovoked,INDONESIA,Bali,Tabanan,Surfing,Marc Andrews,M,18,N,13h30,Unknown,11.0,1.0,13.0,0.0,-8.5448141,115.1201167
+2011-09-04,2011.0,Unprovoked,AUSTRALIA,Western Australia,Bunker Bay,Body boarding,Kyle James Burden,M,21,Y,13h26,White shark,9.0,6.0,13.0,1.0,-33.5435704,115.033001
+2011-08-17,2011.0,Invalid,USA,North Carolina,"Wrightsville Beach, New Hanover County",Unknown,,M,12,UNKNOWN,16h00,Shark involvement not confirmed,8.0,2.0,16.0,,34.213812,-77.805529
+2011-06-29,2011.0,Unprovoked,BRAZIL,Pernambuco,Praia do Pina,Surfing,Malisson Lima,M,21,N,10h00,Unknown,6.0,2.0,10.0,0.0,-8.095247,-34.882149
+2011-03-24,2011.0,Unprovoked,MEXICO,Quintana Roo,"Gaviotas Beach, Cancun",Swimming,Liuba Taran,F,,N,,Bull shark,3.0,3.0,,0.0,21.138483,-86.767015
+2017-09-24,2017.0,Unprovoked,USA,Florida,Fort Worth,Surfing,male,M,,N,14h00,4' to 5' shark,9.0,6.0,14.0,0.0,28.555341395544,-80.827156007675
+2017-09-03,2017.0,Unprovoked,JAPAN,Shizuoka Prefecture,Iwata City,Surfing,male,M,42.0,N,10h00,Unknown,9.0,6.0,10.0,0.0,34.71785385,137.8515097
+2017-08-26,2017.0,Invalid,SPAIN,Castellón,Grao de Moncofa,Swimming,female,F,11.0,UNKNOWN,Midday,Shark involvement questionable,8.0,5.0,,,39.7986488,-0.1332512
+2017-04-17,2017.0,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Unknown,,Unknown,,N,Afternoon,Unknown,4.0,0.0,,0.0,29.2070854,-81.0207257
+2017-02-01,2017.0,Watercraft,USA,South Carolina,16 miles off Hilton Head,Fishing,"Tagging sharks, Chip Michelove & crew",Unknown,,N,,"White shark, female, 14'",2.0,2.0,,0.0,32.18617740189,-80.714270212089
+2017-01-05,2017.0,Unprovoked,USA,Florida,"Blockhouse Beach, Brevard County",Wading,male,M,47.0,N,12h30,Unknown,1.0,3.0,12.0,0.0,28.2583625,-80.6040184
+2016-12-06,2016.0,Provoked,AUSTRALIA,New South Wales,Merimbula,Surf fishing,Jesse Phillips,M,20.0,N,02h00,"Wobbegong shark, 2m",12.0,1.0,2.0,0.0,-36.887418812,149.922226048
+2016-06-11,2016.0,Unprovoked,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Standing,Dillon Bowen,M,19.0,N,15h00,3' shark,6.0,5.0,15.0,0.0,34.701134,-76.740173
+2016-06-05,2016.0,Unprovoked,AUSTRALIA,Western Australia,Mindarie,Diving,Doreen Collyer,F,60.0,Y,11h30,3+ m shark,6.0,6.0,11.0,1.0,-31.688651821,115.707580271
+2016-03-04,2016.0,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Unknown,male,M,12.0,N,Afternoon,Unknown,3.0,4.0,,0.0,26.79372,-80.03288
+2016-02-22,2016.0,Unprovoked,NEW CALEDONIA,South Province,"Ricaudy Reef, Noumea",Kite surfing,Adrian *,M,21.0,N,19h00,Unknown,2.0,0.0,19.0,0.0,-22.27407,166.44884
+2016-01-23,2016.0,Unprovoked,USA,Hawaii,"Wailea Beach, Maui",Paddle boarding,Matt Mason,M,48.0,N,Morning,"Tiger shark, 14'",1.0,5.0,,0.0,20.681265,-156.443428
+2015-10-25,2015.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Stil Bay,Surfing,Stuart Anderson,M,42.0,N,15h00,"White shark, 3 to 3.5m",10.0,6.0,15.0,0.0,-34.3693,21.40748
+2015-09-19,2015.0,Watercraft,USA,California,"Gaviota State Beach, Santa Barbara County",Kayak Fishing,Mark McCracken,M,,N,,Hammerhead shark,9.0,5.0,,0.0,34.504150485735,-120.228120648486
+2015-07-31,2015.0,Unprovoked,AUSTRALIA,New South Wales,Evans Head,Surfing,Craig Ison,M,52.0,N,06h00,White shark,7.0,4.0,6.0,0.0,-29.112681283,153.42919478
+2015-07-10,2015.0,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,Danny Miskin,M,38,N,08h45,"White shark, 7'",7.0,4.0,8.0,0.0,33.659775,-117.999313
+2015-06-26,2015.0,Unprovoked,USA,South Carolina,"South Beach, Hunting Island State Park, Beaufort County",Standing,"Lance Donahue, Jr",M,43,N,11h00,4' shark,6.0,4.0,11.0,0.0,32.3708,-80.4375
+2015-03-10,2015.0,Provoked,MEXICO,Sinaloa,Mazlatan,Fishing,David Villegas Mora,M,36,N,10h20,Unknown,3.0,1.0,10.0,0.0,25.815287439573,-109.002434193048
+2015-01-06,2015.0,Unprovoked,BAHAMAS,Abaco Islands,"Tahiti Beach, Elbow Cay",Snorkeling,Lacy Webb,F,34,N,16h00,White shark or oceanic whitetip shark,1.0,1.0,16.0,0.0,26.379785790043,-77.253591852932
+2014-10-11,2014.0,Watercraft,AUSTRALIA,Western Australia,"Castle Rock, north of Dunsborough",Kayaking,Inflatable kayak Occupants:  Andrej Kultan & Steve Hopkins.,M,,N,17h20,Unknown,10.0,5.0,17.0,0.0,-33.583832439741,115.08993366362
+2014-05-22,2014.0,Provoked,AUSTRALIA,New South Wales,The Australian Shark and Ray Centre,Teasing a shark,male,M,10,N,,"Tawney nurse shark, 1m",5.0,3.0,,0.0,-33.9301,151.189
+2014-04-22,2014.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,male,M,42,N,15h30,Unknown,4.0,1.0,15.0,0.0,28.320224,-80.608867
+2014-01-25,2014.0,Unprovoked,NEW ZEALAND,South Island,Garden Bay near Cosy Nook,Spearfishing,James Grant,M,24,N,,7-gill shark,1.0,5.0,,0.0,-42.7146187,170.9697277
+2013-08-25,2013.0,Unprovoked,AUSTRALIA,New South Wales,Smiths,Wrangling a shark,Otto Lee,M,,N,15h00,Unknown,8.0,6.0,15.0,0.0,-30.440213705208,151.665046273212
+2013-05-27,2013.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,Kyle Kirkpatrick,M,11,N,Afternoon,Unknown,5.0,0.0,,0.0,29.2774764,-81.0417589
+2013-05-08,2013.0,Unprovoked,REUNION,Saint-Gilles,Brisant Beach,Body boarding,Stéphane Berhamel,M,36,Y,08h20,Bull shark,5.0,2.0,8.0,1.0,-21.058354427308,55.2230018763
+2013-04-13,2013.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Joshua White,M,21,N,13h30,Bull shark,4.0,5.0,13.0,0.0,29.029722,-80.9237495
+2012-10-23,2012.0,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,Francisco Javier Solorio Jr,M,39,Y,11h00,"White shark, 15' to 16'",10.0,1.0,11.0,1.0,34.6389191,-120.4689032
+2012-06-12,2012.0,Unprovoked,AUSTRALIA,Victoria,Port Campbell,Surfing,Mike Higgins,M,42,N,Morning,1.5 m shark,6.0,1.0,,0.0,-38.610215372,143.003271821
+2012-04-19,2012.0,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,Justin Ellingham,M,28,N,19h28,5' shark,4.0,3.0,19.0,0.0,28.0894482,-80.5660328
+2012-03-06,2012.0,Unprovoked,NEW ZEALAND,North Island,"Opunake, Taranake",Surfing,Peter Garrett,M,,N,19h00,Unknown,3.0,1.0,19.0,0.0,-39.4546015,173.8599803
+2012-03-03,2012.0,Invalid,SAUDI ARABIA,Tabuk Province,Off Duba,Attempting to Kite surf from Egypt to Saudi Arabia,Jan Lisewski,M,42,UNKNOWN,,Unknown,3.0,5.0,,,27.3540235,35.6965328
+2012-01-22,2012.0,Unprovoked,BAHAMAS,Unknown,Cat Island,"Diving, photographing sharks",Russell Easton,M,,N,,Tiger shark,1.0,6.0,,0.0,24.3096411,-75.4433707
+2012-01-18,2012.0,Unprovoked,AUSTRALIA,New South Wales,Redhead Beach,Surfing,Glen Folkard,M,44,N,16h45,"White shark, 2.7 m",1.0,2.0,16.0,0.0,-33.02048,151.70915
+2011-12-31,2011.0,Unprovoked,USA,Florida,"Jupiter, Palm Beach County",Unknown,male,M,,N,18h00,Unknown,12.0,5.0,18.0,0.0,26.9341448,-80.0997362
+2011-10-22,2011.0,Unprovoked,AUSTRALIA,Western Australia,Rottnest Island,Diving,George Wainwright,M,32,Y,13h25,"White shark, 10'",10.0,5.0,13.0,1.0,-32.007488242,115.520328532
+2011-10-19,2011.0,Unprovoked,AUSTRALIA,Victoria,Elwood Beach,Diving,Andrew Houston,M,50,N,16h00,"Port Jackson shark, 1m",10.0,2.0,16.0,0.0,-37.89023,144.98456
+2011-10-11,2011.0,Unprovoked,USA,Florida,Cape Canaveral,Surfing,Tim Riley,M,,N,,3' shark,10.0,1.0,,0.0,28.388229,-80.605878
+2011-08-23,2011.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Lookout Beach, near the Keurbooms river mouth in Plettenberg Bay",Surfing,Tim van Heerden,M,49,Y,09h11,"White shark, >6'",8.0,1.0,9.0,1.0,-34.04731,23.38022
+2011-07-19,2011.0,Unprovoked,USA,North Carolina,"Ocracoke Island, Hyde County",Boogie Boarding,Lucy Magnum,F,6,N,17h30,Unknown,7.0,1.0,17.0,0.0,35.13212,-75.90517
+2011-07-05,2011.0,Unprovoked,COLUMBIA,Sucre,"Libertad, San Onofre",Kayaking,Andrés Tulio Amaya Vidal,M,17,N,10h30,Unknown,7.0,1.0,10.0,0.0,9.90626,-75.58555
+2011-02-28,2011.0,Provoked,AUSTRALIA,Queensland,Between,Fishing,Shane Nyari,M,36,N,10h45,"Bull shark, 2m",2.0,0.0,10.0,0.0,-22.578119283,144.532318334
+2017-08-29,2017.0,Unprovoked,AUSTRALIA,Victoria,Cathedral Rock,Surfing,Marcel Brundler,M,37.0,N,10h30,"White shark, 3 m",8.0,1.0,10.0,0.0,-38.56716,143.96914
+2017-06-29,2017.0,Invalid,USA,South Carolina,Wrightsville Beach,Fishing,male,M,,UNKNOWN,19h30,No shark invovlement,6.0,3.0,19.0,,34.663751364109,-80.395523030495
+2017-05-30,2017.0,Provoked,USA,South Carolina,"Awendaw, Charleston County",Touching a shark,Mackenzie Higgins,F,20.0,N,,3' shark,5.0,1.0,,0.0,32.990128,-79.644251
+2017-04-29,2017.0,Unprovoked,REUNION,Saint-Leu,Pointe au Sal,Body boarding,Adrien Dubosc,M,28.0,Y,11h15,Unknown,4.0,5.0,11.0,1.0,-21.195365751211,55.286273412274
+2017-03-07,2017.0,Provoked,MEXICO,Tamaulipas,"Playa Baghdad, Matamoros",Fishing,Daniel Vázquez López,M,,N,Morning,Unknown,3.0,1.0,,0.0,25.825040274,-97.152136519
+2016-07-07,2016.0,Provoked,USA,Massachusetts,"Off Gloucester, Essec County",Fishing,Roger Brissom,M,59.0,N,10h00,dogfish shark,7.0,3.0,10.0,0.0,42.616135,-70.66893
+2015-11-15,2015.0,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,Allen Engelman,M,28.0,N,,"Spinner shark, 7'",11.0,6.0,,0.0,26.79372,-80.03288
+2015-09-03,2015.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Unknown,Chip Wagner,M,,N,16h00,4' shark?,9.0,3.0,16.0,0.0,33.68785,-78.883852
+2015-06-25,2015.0,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Body surfing?,Patrick Thornton,M,47,N,11h41,Unknown,6.0,3.0,11.0,0.0,35.56685,-75.46849
+2015-06-24,2015.0,Unprovoked,USA,North Carolina,Surf City,Swimming,Brady Noyes,M,6,N,12h25,Sandtiger shark,6.0,2.0,12.0,0.0,34.425619,-77.546911
+2014-10-02,2014.0,Unprovoked,AUSTRALIA,Western Australia,"Kelpids Beach, Wylie Bay, Esperance",Surfing,Sean Pollard,M,23,N,11h00,2 white shark: 13' & 98,10.0,3.0,11.0,0.0,-33.864058322,121.889971273
+2014-09-02,2014.0,Provoked,USA,Florida,"Fletcher Beach, Hutchinson Island, Martin County",Fishing,male,M,52,N,20h00,3' to 4' shark,9.0,1.0,20.0,0.0,27.286106,-80.223526
+2014-08-27,2014.0,Unprovoked,USA,South Carolina,"Surfside Beach, Horry  County",Standing,female,F,,N,15h00,Unknown,8.0,2.0,15.0,0.0,33.608745,-78.97702
+2014-08-10,2014.0,Unprovoked,USA,Florida,"Hallandale Beach, Broward County",Unknown,male,M,26,N,,Unknown,8.0,6.0,,0.0,25.9847185,-80.1477783
+2014-08-02,2014.0,Unprovoked,USA,Florida,"Table Beach, Brevard County",Boogie boarding,Christian Sanhueza,M,8,N,13h00,Unknown,8.0,5.0,13.0,0.0,28.266571,-80.60564
+2013-08-25,2013.0,Unprovoked,USA,Florida,"Winterhaven Park,           Ponce Inlet, Volusia County",Boogie boarding,Riley Breihan,F,11,N,17h00,Unknown,8.0,6.0,17.0,0.0,29.1046962,-80.9416217
+2013-07-28,2013.0,Unprovoked,BAHAMAS,Exuma Islands,Compass Cay,Cleaning fish,male,M,64,N,16h45,Nurse shark,7.0,6.0,16.0,0.0,24.26693,-76.51693
+2013-07-22,2013.0,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Swimming,Bruna Silva Gobbi,F,18,Y,13h20,Unknown,7.0,0.0,13.0,1.0,-8.12772,-34.89827
+2013-06-06,2013.0,Unprovoked,AUSTRALIA,New South Wales,Target Beach,Surfing,Steve Adamson,M,,N,16h00,6' shark,6.0,3.0,16.0,0.0,-35.07123,150.783
+2013-05-27,2013.0,Unprovoked,USA,Hawaii,"Halewia, Oahu",Diving,Tali Ena,M,32,N,,Galapagos shark,5.0,0.0,,0.0,21.592989,-158.10343
+2013-04-10,2013.0,Unprovoked,FRENCH POLYNESIA,Tuamotus,"North Pass, Fakarava",Kite boarding,Nick Eitel,M,53,N,12h00,Possibly a blacktip reef shark,4.0,2.0,12.0,0.0,-16.34101,-145.61794
+2013-04-04,2013.0,Unprovoked,USA,Florida,"Jensen Beach, Martin County",Swimming,male,M,50,N,,Unknown,4.0,3.0,,0.0,27.2444691,-80.2252736
+2012-07-07,2012.0,Invalid,AUSTRALIA,Victoria,Ship's Graveyard off Point Lonsdale,Scuba diving,Karen Lee,F,42,UNKNOWN,15h00,Unknown,7.0,5.0,15.0,,-38.259560082,144.602645707
+2012-01-02,2012.0,Unprovoked,AUSTRALIA,Queensland,Duranbah,Spearfishing,Hugo Silva,M,34,N,09h00,Allegedly a 4 m tiger shark,1.0,0.0,9.0,0.0,-21.058430300895,149.188218090422
+2011-12-26,2011.0,Invalid,ANTIGUA,St John's,Fort James Beach,Swimming,"Veron Edwards, Sr.",M,,UNKNOWN,Early morning,Shark involvement not confirmed,12.0,0.0,,,17.1188196,-61.8439612
+2011-09-11,2011.0,Unprovoked,USA,California,"Samoa Beach, Humboldt County",Surfing,Benjie Rose,M,37,N,12h20,Unknown,9.0,6.0,12.0,0.0,40.8062561,-124.1990911
+2011-08-28,2011.0,Invalid,AUSTRALIA,Queensland,Fantome Island,Swimming,Rooster,M,48,UNKNOWN,19h30,Shark involvement prior to death not confirmed,8.0,6.0,19.0,,-18.6856,146.51895
+2011-08-15,2011.0,Invalid,USA,South Carolina,"Myrtle Beach, Horry County",Playing in the surf,Rudy Varney,M,7,N,,Shark involvement not confirmed,8.0,0.0,,0.0,33.68785,-78.883852
+2011-07-07,2011.0,Unprovoked,USA,Texas,"Mustang Island, Nueces County",Wade Fishing,Shawn Hamilton,M,14,N,,Unknown,7.0,3.0,,0.0,27.73948,-97.13166
+2011-03-29,2011.0,Provoked,USA,Texas,Matagorda Beach,"Standing, holding shark pup",Orlando,M,,N,,Blacktip shark pup,3.0,1.0,,0.0,28.6045189,-95.9676298
+2011-03-10,2011.0,Unprovoked,AUSTRALIA,New South Wales,"Tallow Beach, Byron Bay",Surfing,Prem Puri,M,,N,,Unknown,3.0,3.0,,0.0,-28.646118,153.631348
+2011-02-17,2011.0,Unprovoked,AUSTRALIA,South Australia,Off Perforated Island near Coffin Bay,Diving for abalone,Peter Clarkson,M,49,Y,18h20,White shark x 2,2.0,3.0,18.0,1.0,-34.72732,135.15651
+2011-02-04,2011.0,Provoked,MEXICO,Colima,"Manzanillo, Revillagigedo Islands",Shark fishing on the Ricardo Astorga,Porfirio Lugo Camacho,M,,N,,Unknown,2.0,4.0,,0.0,19.110437392,-104.326197864
+2017-12-21,2017.0,Provoked,MALAYSIA,Sepang,Bagan Lalang Beach,Fishing / Wading,Sairol  Harun,M,24.0,N,,Juvenile nurse shark,12.0,3.0,,0.0,2.6052698,101.6879498
+2017-09-10,2017.0,Unprovoked,AUSTRALIA,Westerm Australia,Sam's Creek area,Swimming,male,M,,N,15h00,Unknown,9.0,6.0,15.0,0.0,-20.622700846658,117.183480979576
+2017-07-27,2017.0,Unprovoked,BAHAMAS,New Providence District,Rose Island,Snorkeling,female,F,,N,,Unknown,7.0,3.0,,0.0,25.10592,-77.15132
+2017-06-18,2017.0,Unprovoked,REUNION,Unknown,Roches Noire,Body boarding,Julien,M,34.0,N,10h00,"Bull shark, 2m",6.0,6.0,10.0,0.0,-21.0532721,55.2287668
+2017-05-28,2017.0,Unprovoked,USA,Florida,Off Jupiter,Feeding sharks,Randy Jordan,M,,N,Morning,Tiger shark,5.0,6.0,,0.0,26.9341448,-80.0997362
+2017-03-19,2017.0,Unprovoked,AUSTRALIA,New South Wales,The Farm,Body boarding,Gonzalo Fernandez,M,30.0,N,18h30,Unknown,3.0,6.0,18.0,0.0,-33.6979556,150.3087928
+2016-08-06,2016.0,Unprovoked,USA,Hawaii,Maui,SUP Foil boarding,Connor Baxter,M,21.0,N,16h30,"Tiger shark, 10'",8.0,5.0,16.0,0.0,20.77024,-156.26816
+2016-07-24,2016.0,Unprovoked,JAPAN,Kochi Prefecture,Irino Beach,Surfing,male,M,29.0,N,19h05,Unknown,7.0,6.0,19.0,0.0,33.02381552,133.01005311
+2015-11-20,2015.0,Unprovoked,ECUADOR,Galapagos Islands,"Punta Vicente Roca, Isabella Island",Snorkeling,Graham Hurley,M,55.0,N,10h15,Galapagos shark,11.0,4.0,10.0,0.0,-0.59286,-91.02528
+2015-08-22,2015.0,Unprovoked,AUSTRALIA,New South Wales,Lighthouse Beach,Surfing,Dale Carr,M,38.0,N,17h10,Unknown,8.0,5.0,17.0,0.0,-33.280744,151.574377
+2015-06-13,2015.0,Unprovoked,USA,California,Off San Diego,Unknown,Elke Specker,F,,N,,Mako shark,6.0,5.0,,0.0,32.71576,-117.1638173
+2015-04-13,2015.0,Unprovoked,USA,Florida,"Florida Keys, Monroe County",Photographing the shark,Mark Rackley,M,48,N,,"Blue shark, 8 to 9 feet",4.0,0.0,,0.0,24.66709,-81.58314
+2015-03-16,2015.0,Unprovoked,FRENCH POLYNESIA,Bora Bora,Anau,Hand feeding sharks,male,M,9,N,10h00,Blacktip shark,3.0,0.0,10.0,0.0,-16.4914608,-151.7250209
+2015-01-19,2015.0,Invalid,AUSTRALIA,New South Wales,"Wategos Beach, Byon Bay",Surfing & filming dolphins,Diane Ellis,F,,UNKNOWN,,Shark involvement not confirmed,1.0,0.0,,,-28.6364,153.6338
+2014-09-06,2014.0,Unprovoked,USA,Alabama,"Katrina Cut, Dauphin Island, Mobile County",Fishing,Jamie Robson,M,43,N,13h00,Bull shark,9.0,5.0,13.0,0.0,30.2552219,-88.1126401
+2014-04-04,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,teen,N,13h50,Unknown,4.0,4.0,13.0,0.0,29.029722,-80.9237495
+2014-03-29,2014.0,Invalid,AUSTRALIA,Western Australia,Off Dawesville Cut,Diving for lobsters,Michael McGregor,M,38,UNKNOWN,13h30,Shark involvement prior to death not confirmed,3.0,5.0,13.0,,-32.631482007,115.633989099
+2013-10-26,2013.0,Unprovoked,REUNION,d’Étang-Salé,Ravine Mula,Body boarding,Gicquel Tanguy,M,24,N,16h30,Thought to involve a bull shark,10.0,5.0,16.0,0.0,-21.266040602,55.366755393
+2013-09-29,2013.0,Unprovoked,ISRAEL,Southern District,Ashdod,Diving,Erez Lev,M,27,N,11h30,Unknown,9.0,6.0,11.0,0.0,31.7877699,34.6432047
+2013-09-02,2013.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,Raushod Floyd,M,17,N,13h00,Unknown,9.0,0.0,13.0,0.0,29.2774764,-81.0417589
+2013-02-21,2013.0,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Surfing,Jacob Lanskey,M,,N,18h00,reef shark?,2.0,3.0,18.0,0.0,20.91697,-156.38332
+2013-01-16,2013.0,Unprovoked,USA,Hawaii,Kiholo Bay,Surfing,Paul Santos,M,43,N,16h30,"Tiger shark, 15'",1.0,2.0,16.0,0.0,19.8500336,-155.9410579
+2012-11-30,2012.0,Unprovoked,USA,Hawaii,"Kihei, Maui",Snorkeling,Thomas Floyd Kennedy,M,61,N,09h40,"Tiger shark, 10'",11.0,4.0,9.0,0.0,20.7814563,-156.4626867
+2012-10-30,2012.0,Unprovoked,USA,California,"Humboldt Bay, Eureka, Humboldt County",Surfing,Scott Stephens,M,25,N,12h00,White shark,10.0,1.0,12.0,0.0,40.741892,-124.210936
+2012-10-18,2012.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,male,M,24,N,10h30,Unknown,10.0,3.0,10.0,0.0,29.0970105,-80.9357379
+2012-08-08,2012.0,Unprovoked,USA,Florida,Key Largo,Free diving,"David Lowe, Sr.",M,56,N,1600,"Lemon shark, 4' to 5'",8.0,2.0,16.0,0.0,25.130026,-80.405962
+2012-07-31,2012.0,Unprovoked,USA,California,"Topanga Beach, Los Angeles County",Surfing,Jared Tennison,M,17,N,06h45,Unknown,7.0,1.0,6.0,0.0,34.040099,-118.57927
+2012-06-02,2012.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,Ryan Orellana-Maczynski,M,25,N,19h45,Unknown,6.0,5.0,19.0,0.0,33.68785,-78.883852
+2012-01-15,2012.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. Johns",Swimming,Lungisani Msungubana,M,25,Y,15h40,Thought to involve a bull shark,1.0,6.0,15.0,1.0,-31.6493491,29.5159128
+2011-10-09,2011.0,Unprovoked,AUSTRALIA,Western Australia,Cottesloe Beach,Swimming,Bryn Martin,M,64,Y,08h10,Unknown,10.0,6.0,8.0,1.0,-31.9939,115.751
+2011-09-28,2011.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Clovely Beach,Swimming,Michael Cohen,M,43,N,12h25,White shark,9.0,2.0,12.0,0.0,-34.12487,18.43276
+2011-08-01,2011.0,Unprovoked,SEYCHELLES,Praslin,Anse Lazio,Diving,Nicolas Virolle,M,36,Y,15h30,Unknown,8.0,0.0,15.0,1.0,-4.2937436,55.7025629
+2011-06-15,2011.0,Unprovoked,REUNION,Saint-Gilles-les-Bains,Boucan-Canot,Boogie Boarding,Eddie Aubert,M,31,Y,17h30,Unknown,6.0,2.0,17.0,1.0,-21.05203,55.22571
+2011-06-14,2011.0,Watercraft,UNITED KINGDOM,Cornwall,St. Ives,Fishing,16' Dreamcatcher. Occupant: Ian Bussus,Unknown,,N,,"Oceanic whitetip shark, 7'",6.0,1.0,,0.0,50.211422269,-5.480829146
+2011-05-22,2011.0,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Paddle boarding,Alaina DeBina,F,,N,12h00,Tiger shark,5.0,6.0,12.0,0.0,19.647367,-155.99301
+2017-09-10,2017.0,Unprovoked,AUSTRALIA,New South Wales,Iluka Beach,Surfing,Abe McGrath,M,35.0,N,06h00,"White shark, 3 to 3.5m",9.0,6.0,6.0,0.0,-29.4205488,153.3625187
+2017-09-03,2017.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Dyer Island,"Swimming, poaching abalone",Sivuyile Xelela,M,,Y,Morning,Unknown,9.0,6.0,,1.0,-34.6822,19.41797
+2017-07-29,2017.0,Unprovoked,USA,South Carolina,"DeBordieu Colony, Georgetown County",Unknown,female x 2,F,12.0,N,Afternoon,Unknown,7.0,5.0,,0.0,33.368223,-79.170601
+2016-12-14,2016.0,Unprovoked,AUSTRALIA,Western Australia,Trigg Beach,Free diving,Tim Roberts,M,61.0,N,09h30,Unknown,12.0,2.0,9.0,0.0,-31.877937,115.75177
+2016-09-16,2016.0,Unprovoked,AUSTRALIA,Victoria,Bells Beach,Surfing,male,M,,N,,2 m shark,9.0,4.0,,0.0,-38.363627546,144.274343023
+2016-03-11,2016.0,Unprovoked,USA,Florida,"Vero Beach, St. Lucie County",Body surfing,Daniel Kenny,M,19.0,N,13h30,Unknown,3.0,4.0,13.0,0.0,27.638883,-80.38908
+2016-02-10,2016.0,Invalid,AUSTRALIA,Tasmania,Nettley Bay,Surfing,male,M,,UNKNOWN,12h30,No shark involvement,2.0,2.0,12.0,,-40.92813,144.61244
+2016-01-25,2016.0,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai,",Surfing,Kaya Waldman,F,15.0,N,11h30,Unknown,1.0,0.0,11.0,0.0,22.20889,-159.50709
+2015-09-06,2015.0,Unprovoked,USA,California,"El Pescador Beach, Los Angeles County",Stand-Up Paddleboarding,Caterina Gennaro,F,50.0,N,17h30,"White shark, 11' to 12'",9.0,6.0,17.0,0.0,34.040330777847,-118.89204057495
+2014-12-28,2014.0,Sea Disaster,GREECE,Unknown,33 nautical miles off Othonoi Island,Unknown,Passenger ferry Norman Atlantic,Unknown,,N,,Shark involvement prior to death still to be determined,12.0,6.0,,0.0,37.2604963,24.598761
+2014-11-13,2014.0,Unprovoked,USA,Hawaii,"Airplane Beach, Lahina, West Maui",Snorkeling,Andrew Haas,M,53,N,13h30,1.5 m shark,11.0,3.0,13.0,0.0,20.86774,-156.61706
+2014-05-24,2014.0,Unprovoked,AUSTRALIA,Queensland,Nerang River near Chevron Island,Fell into the water,Bianca Freeman,F,29,N,,"Bull shark, 1.2m",5.0,5.0,,0.0,-27.99694,153.42
+2013-09-21,2013.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,female,F,45,N,13h00,Unknown,9.0,5.0,13.0,0.0,29.2774764,-81.0417589
+2013-03-03,2013.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Swimming,Fundile Nogumla,M,39,N,,Unknown,3.0,6.0,,0.0,-31.62291,29.54477
+2012-10-27,2012.0,Unprovoked,USA,Hawaii,"Makena Landing, Maui",Swimming,Mariko Haugen,F,51,N,15h56,"Tiger shark, 10' to 12'",10.0,5.0,15.0,0.0,20.6539039,-156.4411031
+2012-08-31,2012.0,Provoked,SCOTLAND,Inner Hebrides,Off the Isle of Islay,Shark fishing,Hamish Currie,M,53,N,,"Porbeagle shark, 7'",8.0,4.0,,0.0,56.667265224,-6.278532964
+2012-06-18,2012.0,Unprovoked,USA,North Carolina,"Ocean Isle, Brunswick County",Wading,Brooklyn Daniel,F,6,N,11h00,Unknown,6.0,0.0,11.0,0.0,33.900049282896,-78.061581994137
+2011-11-28,2011.0,Unprovoked,AUSTRALIA,Queensland,Peregian,Swimming,Eamon Kriz,M,10,N,Afternoon,Wobbegong shark?,11.0,0.0,,0.0,-27.181553443513,152.942119442365
+2011-10-10,2011.0,Unprovoked,USA,Oregon,Seaside,Surfing,Doug Niblack,M,,N,,10' to 12' shark,10.0,0.0,,0.0,45.9930976,-123.920633
+2011-10-01,2011.0,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Unknown,Victor Meade,M,29,N,,Unknown,10.0,5.0,,0.0,30.272469,-87.68743
+2011-08-17,2011.0,Unprovoked,USA,North Carolina,"Kure Beach, New Hanover County",Wading,Trang Aronian,F,20s,N,17h00,Possibly a 5' to 6' sandtiger shark,8.0,2.0,17.0,0.0,33.998255,-77.906651
+2011-07-31,2011.0,Invalid,BRAZIL,Pernambuco,Praia do Pina,Swimming,Gabriel Alves dos Santos,M,14,UNKNOWN,,Shark involvement prior to death not confirmed,7.0,6.0,,,-8.095247,-34.882149
+2010-03-10,2011.0,Invalid,EGYPT,South Sinai Peninsula,Sharm-el-Sheikh,Unknown,female,F,,UNKNOWN,,Unknown,3.0,2.0,,,27.9158248,34.3262398
+2017-11-18,2017.0,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,Kaia Anderson,F,14.0,N,Late afternoon,Unknown,11.0,5.0,,0.0,27.94577,-80.496461
+2017-10-18,2017.0,Unprovoked,USA,Florida,"Lantana Beach, Palm Beach County",Swimming,Carlos Iribam,M,,N,14h30,"Spinner shark, 4 to 5 feet",10.0,2.0,14.0,0.0,26.589469982725,-80.139338171803
+2017-05-05,2017.0,Unprovoked,MEXICO,Baja California Sur,"Los Arbolitos, Cabo Pulmo",Snorkeling,Andres Rozada,M,33.0,Y,17h00,Unknown,5.0,4.0,17.0,1.0,23.502882345595,-109.480115210871
+2017-02-25,2017.0,Unprovoked,AUSTRALIA,Western Australia,Mauds Point,Snorkeling,female,F,,N,Morning,"Bull shark, 1.5",2.0,5.0,,0.0,-23.1,113.75
+2017-02-24,2017.0,Unprovoked,AUSTRALIA,Western Australia,"Falcon Bay Beach, Mandurah",Surfing,male,M,,N,Morning,Unknown,2.0,4.0,,0.0,-32.58244,115.66199
+2017-02-11,2017.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,male,M,22.0,N,13h30,Unknown,2.0,5.0,13.0,0.0,28.068399,-80.558423
+2017-01-22,2017.0,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Unknown,male,M,Teen,N,14h00,Unknown,1.0,6.0,14.0,0.0,27.638883,-80.38908
+2017-01-03,2017.0,Invalid,AUSTRALIA,New South Wales,Merimbula,Wading,Mitchell Collins,M,20.0,UNKNOWN,18h00,Shark involvement not confirmed,1.0,1.0,18.0,,-36.887418812,149.922226048
+2016-08-07,2016.0,Unprovoked,BAHAMAS,New Providence Island,Nassau,Snorkeling,Johnny Stoch,M,15.0,N,,Unknown,8.0,6.0,,0.0,25.0465887,-77.3765998
+2016-08-04,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nolan Tyler,M,22.0,N,,Blacktip shark,8.0,3.0,,0.0,29.029722,-80.9237495
+2016-07-16,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Unknown,female,F,11.0,N,11h00,Unknown,7.0,5.0,11.0,0.0,29.029722,-80.9237495
+2016-06-25,2016.0,Unprovoked,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Surfing,male,M,11.0,N,14h34,Unknown,6.0,5.0,14.0,0.0,34.701134,-76.740173
+2016-05-31,2016.0,Unprovoked,AUSTRALIA,Western Australia,"Falcon Beach, Mandurah",Surfing,Ben Gerring,M,29.0,Y,16h00,White shark,5.0,1.0,16.0,1.0,-32.58244,115.66199
+2016-05-21,2016.0,Unprovoked,USA,Florida,"St. Petersburg, Pinellas County",Swimming,Krystal Magee,F,22.0,N,18h00,"Bull shark, 4' to 5'",5.0,5.0,18.0,0.0,27.77086,-82.67927
+2016-02-02,2016.0,Unprovoked,BRAZIL,Balneário Camboriú,Estaleirinho beach,Swimming,Rafael Hermes Thomas,M,41.0,N,,Sandtiger shark,2.0,1.0,,0.0,-27.04833,-48.5875
+2015-11-01,2015.0,Unprovoked,MOZAMBIQUE,Inhambane Province,Maxixe,Fishing,Albino Ernesto,M,19.0,N,04h00,Unknown,11.0,6.0,4.0,0.0,-23.85972,35.34722
+2015-09-04,2015.0,Unprovoked,AUSTRALIA,New South Wales,Hallidays Point,Surf-skiing,David Quinliven,M,62.0,N,11h30,"White shark, 2.5 m",9.0,4.0,11.0,0.0,-32.073369849,152.49274312
+2015-01-01,2015.0,Unprovoked,USA,Florida,"Windsor Beach, Indian River County",Unknown,male,M,12,N,Afternoon,A small shark,1.0,3.0,,0.0,27.788649831934,-80.41580966394
+2014-11-17,2014.0,Watercraft,USA,California,"Franklin Point, San Mateo County",Unknown,Boat: occupants: Matt Mitchell & 2 other people,Unknown,,N,,White shark,11.0,0.0,,0.0,37.14967,-122.36053
+2014-10-31,2014.0,Unprovoked,USA,Hawaii,"North Kohala, Hawaii County",Surfing,McKenzie Clark,F,34,N,11h00,"Tiger shark, 12'",10.0,4.0,11.0,0.0,20.13195,-155.79389
+2014-09-13,2014.0,Invalid,USA,California,"Manresa State Beach, Santa Cruz County",Surfing,Beau Browning,M,,UNKNOWN,18h45,No shark involvement,9.0,5.0,18.0,,36.9097687,-121.8481123
+2014-06-01,2014.0,Unprovoked,USA,Florida,Fort Lauderdale,Swimming,Jessica Vaughn,F,22,N,13h30,Bull shark,6.0,6.0,13.0,0.0,26.1241631,-80.1435862
+2014-05-15,2014.0,Unprovoked,USA,Florida,"Juan Ponce de León Landing, Melbourne Beach, Brevard County",Body boarding,Amy Tatsch,F,38,N,11h30,Unknown,5.0,3.0,11.0,0.0,28.010853,-80.53041
+2013-10-24,2013.0,Unprovoked,AUSTRALIA,New South Wales,South Narrabeen Beach,Surfing,Anthony Joyce,M,41,N,18h15,Wobbegong shark,10.0,3.0,18.0,0.0,-33.7228902,151.2990401
+2013-10-20,2013.0,Unprovoked,USA,Hawaii,"Pila'a Beach, Kaua'i",Surfing,Jeff Horton,M,25,N,11h00,Tiger shark,10.0,6.0,11.0,0.0,22.2080512,-159.3744743
+2012-11-22,2012.0,Unprovoked,MEXICO,Sinaloa,Nuevo Altata,Swimming,Fernando Cardenas Garcia,M,32,Y,11h40,2.5 m shark,11.0,3.0,11.0,1.0,24.825583898847,-107.432814574536
+2012-06-10,2012.0,Provoked,ITALY,Sardinia,Muravera,Attempting to rescue an injured & beached shark,Giorgio Zara,M,57,2017.0,Morning,"Blue shark, 2.5m",6.0,6.0,,,39.420247,9.5743829
+2012-05-29,2012.0,Unprovoked,MEXICO,Guerrero,"Boca de la Leña, La Unión",Free diving / spearfishing,Benigno Medina Navarrete,M,46,N,09h00,"Bull shark, 3m",5.0,1.0,9.0,0.0,18.0049,-101.98163
+2012-03-14,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Nick Romano,M,17,N,16h05,4' to 5' shark,3.0,2.0,16.0,0.0,29.029722,-80.9237495
+2012-01-13,2012.0,Unprovoked,USA,Oregon,"Lincoln City, Lincoln County",Surfing,Steve Harnack,M,53,N,,White shark,1.0,4.0,,0.0,44.973855,-124.0134339
+2011-11-11,2011.0,Unprovoked,REUNION,Bois-Blanc,Sainte-Rose,Free diving / spearfishing,Jean-Paul Delaunay,M,42,N,Morning,Unknown,11.0,4.0,,0.0,-21.127674183,55.793279252
+2011-10-29,2011.0,Unprovoked,USA,California,"Marina State Beach, Monterey County",Surfing,Eric Tarantino,M,27,N,,White shark,10.0,5.0,,0.0,36.6827412,-121.8137843
+2011-10-02,2011.0,Unprovoked,USA,Florida,"Santa Maria Island, Manatee County",Wade fishing,Javier Perez,M,,N,Afternoon,Unknown,10.0,6.0,,0.0,27.462166597969,-82.660453417369
+2011-06-12,2011.0,Unprovoked,USA,Florida,"Off Jupiter Inlet, Palm Beach County",Scuba diving,Daniel Webb,M,28,N,14h30,"Blacktip shark, 4'",6.0,6.0,14.0,0.0,26.94895,-80.07476
+2011-06-01,2011.0,Unprovoked,MALAYSIA,Kedah,Palau Payar,Snorkeling,Canadian teen,F,,N,,Blacktip reef shark,6.0,2.0,,0.0,6.05,100.03333
+2011-01-28,2011.0,Provoked,MEXICO,Colima,Revillagigedo Islands,Shark fishing on the Don Agustín-VI.,C. Pedro Luis Beltrán Camargo,M,25,N,,Unknown,1.0,4.0,,0.0,19.134363757881,-104.337781258286
+2017-04-12,2017.0,Invalid,SOUTH AFRICA,KwaZulu-Natal,Protea Banks,Scuba Diving,Leopold Mairhuber,M,68.0,UNKNOWN,,Shark involvement prior to death not confirmed,4.0,2.0,,,-30.83333,30.48333
+2016-12-11,2016.0,Unprovoked,FRENCH POLYNESIA,Tuamotos,Takapoto Atoll,Fishing,male,M,40s,N,,Unknown,12.0,6.0,,0.0,-14.615,-145.19855
+2016-02-05,2016.0,Unprovoked,AUSTRALIA,Queensland,Stradbroke Island,Walking,female,F,45.0,N,13h20,Unknown,2.0,4.0,13.0,0.0,-27.4997481,153.4044503
+2015-06-26,2015.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Lookout Beach, Plettenberg Bay",Surfing,Dylan Reddering,M,23,N,16h00,"White shark, 2m to 3 m",6.0,4.0,16.0,0.0,-34.0506,23.3776
+2015-03-21,2015.0,Unprovoked,EGYPT,Red Sea Protectorate,Marsa Alam,Swimming,male,M,52,Y,,Mako shark,3.0,5.0,,1.0,25.068251,34.8898818
+2015-03-18,2015.0,Unprovoked,USA,Hawaii,Hapuna Beach,Standing / Snorkeling,Ken Grasing,M,58,N,11h45,"Tiger shark, 8 to 12 feet",3.0,2.0,11.0,0.0,19.9923,-155.8257
+2014-12-29,2014.0,Unprovoked,AUSTRALIA,New South Wales,Bherwerre Beach,Surfing,Jeff Brown,Unknown,,N,Morning,2 m shark,12.0,0.0,,0.0,-35.157869440489,150.650165222341
+2014-10-03,2014.0,Watercraft,USA,California,Santa Barbara County,Kayaking,Raul Armenta,M,,N,11h30,White shark,10.0,4.0,11.0,0.0,34.538263714677,-120.030793894701
+2014-05-23,2014.0,Unprovoked,FRANCE,Wallis and Futuna,Wallis Island,Scuba diving,Eric Barnabas,M,,N,Morning,3m shark,5.0,4.0,,0.0,47.47056,3.84639
+2014-01-04,2014.0,Sea Disaster,JAPAN,Okinawa Prefecture,Off Miyako Island,Sea disaster,Rianto,M,31,N,,Unknown,1.0,5.0,,0.0,24.78333,125.33333
+2012-06-19,2012.0,Invalid,USA,South Carolina,"Myrtle Beach, Horry County",Standing,Matthew Breen,M,16,UNKNOWN,,No shark involvement,6.0,1.0,,,33.68785,-78.883852
+2012-06-14,2012.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,female,F,18,N,Afternoon,small blacktip shark?,6.0,3.0,,0.0,33.68785,-78.883852
+2012-05-31,2012.0,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Wading,Megan Konkler,F,33,N,13h30,18 to 24 shark,5.0,3.0,13.0,0.0,35.56685,-75.46849
+2012-02-20,2012.0,Watercraft,SOUTH AFRICA,Western Cape Province,Strandfontein,Fishing,8m inflatable boat. Occupants: Bhad Battle & Kevin Overmeyer,Unknown,,N,,"White shark, 7m",2.0,0.0,,0.0,-34.0731,18.56119
+2011-10-28,2011.0,Unprovoked,SCOTLAND,Moray,Spey Bay,Surfing,Andrew Rollo,M,26,N,,8' to 10' shark,10.0,4.0,,0.0,57.668674919,-3.083374724
+2011-09-20,2011.0,Watercraft,USA,Hawaii,Kauai,Canoeing,Tom Bartlett,M,,N,15h00,Unknown,9.0,1.0,15.0,0.0,22.04942,-159.53099
+2011-03-21,2011.0,Unprovoked,FIJI,Unknown,Nukudamu,Diving / fishing,Metereti Jeke,M,30,N,16h00,Unknown,3.0,0.0,16.0,0.0,-16.1665364,179.9666968
+2017-11-04,2017.0,Unprovoked,CUBA,Holquin Province,Guardalavaca Beach,Night bathing,Jesús Cabrera González,M,22.0,Y,23h30,Tiger shark,11.0,5.0,23.0,1.0,21.12,-75.83389
+2017-09-02,2017.0,Unprovoked,USA,Texas,"South Padre Island, Cameron County",Swimming,female,F,,N,,Unknown,9.0,5.0,,0.0,26.110983,-97.165717
+2017-07-24,2017.0,Unprovoked,"ST HELENA, British overseas territory",Ascension Island,English Bay,Surfing,Kawika Matsu,M,37.0,N,17h00,Unknown,7.0,0.0,17.0,0.0,-7.943362250099,-14.365992187691
+2016-10-14,2016.0,Unprovoked,USA,Hawaii,"Charlie Young Beach, Kihei, Maui",Snorkeling,female,F,66.0,N,09h50,Unknown,10.0,4.0,9.0,0.0,20.724887,-156.4490193
+2016-09-15,2016.0,Watercraft,AUSTRALIA,Western Australia,Bunbury,Fishing,Occupant: Ben Stratton,Unknown,,N,,Unknown,9.0,3.0,,0.0,-33.330540816,115.636519563
+2016-03-28,2016.0,Unprovoked,AUSTRALIA,New South Wales,North Cronulla Beach,Surfing,Roie Smyth,M,41.0,N,11h00,Unknown,3.0,0.0,11.0,0.0,-34.0496,151.1572
+2015-12-08,2015.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Mpande,Swimming / Wading,Tamsin Scott,F,22.0,N,Morning,Unknown,12.0,1.0,,0.0,-31.7652,29.35684
+2015-11-10,2015.0,Unprovoked,AUSTRALIA,New South Wales,East Ballina,Surfing,Sam Morgan,M,20.0,N,18h15,"Bull shark, 2.8 to 3.1 m",11.0,1.0,18.0,0.0,-28.861975125,153.585770216
+2014-10-20,2014.0,Unprovoked,USA,Hawaii,"Kahului, Maui",Stand-Up Paddleboarding,male,M,,N,08h00,Unknown,10.0,0.0,8.0,0.0,20.8880335,-156.4678501
+2014-10-03,2014.0,Watercraft,USA,California,Santa Barbara County,Kayaking,Ryan Howell,M,,N,14h00,"White shark, 18' to 20'",10.0,4.0,14.0,0.0,34.538263714677,-120.030793894701
+2013-12-16,2013.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Die Platt,Surfing,Thomas Browne,M,19,N,08h45,"White shark, 3m",12.0,0.0,8.0,0.0,-32.89355,18.71639
+2013-06-17,2013.0,Unprovoked,USA,Texas,"Surfside Beach, Brazoria County",Swimming,Garrett Sebesta,M,15,N,14h45,Unknown,6.0,0.0,14.0,0.0,28.9520047,-95.2878755
+2013-04-14,2013.0,Unprovoked,SOUTH AFRICA,Western Cape Province,False Bay,Free diving,male,M,,N,,Blue shark,4.0,6.0,,0.0,-34.17286,18.66443
+2013-03-16,2013.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Hawston Beach,Surfing,Troy Henri,M,,N,,Unknown,3.0,5.0,,0.0,-34.38634,19.13099
+2012-12-25,2012.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Swimming,Liya Sibili,M,20,Y,,Tiger shark,12.0,1.0,,1.0,-31.62291,29.54477
+2012-07-24,2012.0,Invalid,USA,North Carolina,"Ocean Isle, Brunswick County",Unknown,male,M,12,UNKNOWN,11h45,Shark involvement not confirmed,7.0,1.0,11.0,,33.900049282896,-78.061581994137
+2012-06-26,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,26,N,15h00,Unknown,6.0,1.0,15.0,0.0,29.029722,-80.9237495
+2011-06-06,2011.0,Unprovoked,USA,California,"La Jolla, San Diego County",Spearfishing,Justin Schlaefli,M,28,N,,"Sevengill shark, 6' to 8'",6.0,0.0,,0.0,32.8419914,-117.2730168
+2011-05-21,2011.0,Unprovoked,NEW CALEDONIA,North Province,Kendec,Kite Boarding,Nathan ____,M,15,Y,11h00,"Tiger shark, 2.8m",5.0,5.0,11.0,1.0,-21.05,164.9
+2011-04-22,2011.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Ronald White,M,49,N,15h30,1' to 2' shark,4.0,4.0,15.0,0.0,29.029722,-80.9237495
+2011-04-16,2011.0,Unprovoked,NEW ZEALAND,South Island,Snapper Point,Surfing,Laine Hobson,M,41,N,Afternoon,possibly a bronze whaler shark,4.0,5.0,,0.0,-41.211970411,173.916674165
+2017-11-02,2017.0,Unprovoked,USA,Hawaii,Makaha,Surfing,male,M,20s,N,14h15,Unknown,11.0,3.0,14.0,0.0,21.468004,-158.214988
+2017-07-22,2017.0,Unprovoked,USA,Florida,"Snipes Point, Monroe County",Unknown,female,F,40.0,N,12h30,A small shark,7.0,5.0,12.0,0.0,24.6982,-81.67398
+2017-04-22,2017.0,Unprovoked,"ST HELENA, British overseas territory",Ascension Island,English Bay,Snorkeling,Frankie Gonsalves,F,40.0,N,16h00,Unknown,4.0,5.0,16.0,0.0,-7.943362250099,-14.365992187691
+2017-04-10,2017.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Paddle boarding,female,F,10.0,N,17h45,Unknown,4.0,0.0,17.0,0.0,28.068399,-80.558423
+2017-04-06,2017.0,Unprovoked,USA,Florida,"Daytona, Volusia County",Swimming,Kody Stephens,M,16.0,N,,Unknown,4.0,3.0,,0.0,29.21081,-81.02283
+2016-09-11,2016.0,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Wading,male,M,60s,N,15h15,3' to 4' shark,9.0,6.0,15.0,0.0,30.094227,-81.405774
+2016-07-07,2016.0,Watercraft,USA,California,"Off Palos Verdes peninsula, Los Angeles County",Fishing,24' boat Shark Tagger Occupant Keith Poe,M,,N,,White shark,7.0,3.0,,0.0,33.76634,-118.380869
+2016-05-21,2016.0,Unprovoked,USA,Florida,"Hugenot Beach , Jacksonville, Duval County",Swimming,female,F,11.0,N,17h46,Unknown,5.0,5.0,17.0,0.0,30.384675011043,-81.489213740588
+2016-03-02,2016.0,Unprovoked,BRAZIL,Santa Catarina State,Escalerio Beach Balneário Camboriú,Swimming,Rafael Hermes Thomas,M,41.0,N,,Sandtiger shark,3.0,2.0,,0.0,-27.0324646,-48.5826942
+2016-01-28,2016.0,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,male,M,,N,14h00,"Reef shark, 5'",1.0,3.0,14.0,0.0,22.20889,-159.50709
+2015-10-28,2015.0,Unprovoked,USA,Hawaii,"Malaka, Oahu",Body boarding,Raymond Senensi,M,10.0,N,14h50,Unknown,10.0,2.0,14.0,0.0,21.318546,-157.87481
+2015-08-29,2015.0,Unprovoked,USA,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,Elinor Dempsey,F,54.0,N,10h25,"White shark, 11' to 12'",8.0,5.0,10.0,0.0,35.39185,-120.8664
+2015-08-29,2015.0,Unprovoked,USA,California,"Morro Bay, San Luis Obispo County",Surfing,Daniel Phillips,M,21.0,N,10h00,"White shark, 10' to 12'",8.0,5.0,10.0,0.0,35.365945,-120.850004
+2015-08-18,2015.0,Watercraft,USA,California,Santa Barbara County,Kayak Fishing,Connor Lyon,M,22.0,N,07h30,"White shark, 13'",8.0,1.0,7.0,0.0,34.538263714677,-120.030793894701
+2015-05-09,2015.0,Unprovoked,NEW CALEDONIA,Unknown,Kouare,Snorkeling,Yves Berthelot,M,50,Y,,"Bull shark, 3.5 m",5.0,5.0,,1.0,-21.6710827,166.0721766
+2014-08-16,2014.0,Unprovoked,AUSTRALIA,Western Australia,Gnaraloo,Spearfishing,Adam Haling,M,31,N,,reef shark,8.0,5.0,,0.0,-23.82168,113.52629
+2014-07-09,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Tristan Durham,M,14,N,14h00,Unknown,7.0,2.0,14.0,0.0,29.029722,-80.9237495
+2014-05-11,2014.0,Unprovoked,USA,Georgia,"Tybee Island, Chatham County",Surfing,Ayden Meadows,M,12,N,,Shark involvement not confirmed,5.0,6.0,,0.0,31.99241,-80.849252
+2013-11-29,2013.0,Unprovoked,USA,Hawaii,"Keawekapu Beach, Kihei, Maui",Snorkeling,female,F,58,N,13h00,Unknown,11.0,4.0,13.0,0.0,20.703902,-156.4461356
+2013-10-28,2013.0,Unprovoked,AUSTRALIA,Western Australia,Turquoise Bay,Snorkeling,Glenda Simmons,F,60,N,Afternoon,"Blacktip reef shark, 1m",10.0,0.0,,0.0,-22.0984963,113.888643
+2013-10-23,2013.0,Unprovoked,USA,Hawaii,"Waiehu, Maui",Diving,Shane Mills,M,45,N,15h55,"Whitetip reef shark, 4' to 6'",10.0,2.0,15.0,0.0,20.919034,-156.494665
+2013-04-28,2013.0,Provoked,AUSTRALIA,New South Wales,Emerald Beach,Fishing,Ted Collins,M,,N,,"Wobbegong, 2m",4.0,6.0,,0.0,-30.169989952,153.185134141
+2012-11-04,2012.0,Unprovoked,USA,Hawaii,"Davidson's Surf Break, Kekaha, Kaua'i",Surfing,male,M,43,N,08h10,"Tiger shark, 8'",11.0,6.0,8.0,0.0,21.966609,-159.713613
+2012-08-04,2012.0,Unprovoked,FRENCH POLYNESIA,Tuamotus,Kaukura Atoll,Spearfishing,Téophane Tauiratea,M,,N,,"Lemon shark, 2.5m to 3m",8.0,5.0,,0.0,-15.74795,-146.69381
+2012-07-14,2012.0,Unprovoked,AUSTRALIA,Western Australia,Off Wedge Island,Surfing,Ben Linden,M,24,Y,09h05,"White shark, 5m",7.0,5.0,9.0,1.0,-30.82099929,115.206025539
+2012-06-22,2012.0,Unprovoked,USA,Florida,"Bathtub Reef  Beach, Stuart, Martin County",Swimming,Patrick McInerney,M,12,N,16h30,Unknown,6.0,4.0,16.0,0.0,27.186903,-80.160736
+2012-06-14,2012.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,Jordon Garosalo,M,16,N,13h20,Blacktip shark,6.0,3.0,13.0,0.0,33.68785,-78.883852
+2012-04-03,2012.0,Unprovoked,USA,Hawaii,"Leftovers near Chun's Reef, Oahu",Surfing,Joshua Holley,M,28,N,12h38,"Tiger shark, 10'",4.0,1.0,12.0,0.0,21.439542579,-157.94363193
+2012-01-19,2012.0,Unprovoked,AUSTRALIA,Western Australia,Coral Bay,Snorkeling,David Pickering,M,26,N,Afternoon,"Tiger shark, 3m",1.0,3.0,,0.0,-23.143568033,113.772903449
+2011-11-20,2011.0,Unprovoked,PAPUA NEW GUINEA,East New Britain,Pigeon Island,Scuba diving,male,M,,N,,Unknown,11.0,6.0,,0.0,-4.26895,152.32734
+2011-09-04,2011.0,Unprovoked,USA,Hawaii,"Nimitz State Beach, Oahu",Surfing,M. Filipe,Unknown,,N,13h00,Unknown,9.0,6.0,13.0,0.0,21.439542579,-157.94363193
+2011-08-24,2011.0,Unprovoked,USA,North Carolina,"Buxton Beach, Dare County",Surfing,Kevin Dinneen,M,21,N,,Unknown,8.0,2.0,,0.0,35.26889,-75.539467
+2011-08-24,2011.0,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,Unknown,male,M,10,N,15h30,Unknown,8.0,2.0,15.0,0.0,33.915334,-78.264155
+2011-07-13,2011.0,Unprovoked,BAHAMAS,Grand Bahama Island,Off Lucaya,Scuba diving,male,M,54,N,12h30,Unknown,7.0,2.0,12.0,0.0,26.5174143,-78.7686115
+2017-11-30,2017.0,Unprovoked,COSTA RICA,Cocos Island,Manuelita,Scuba diving,Rohina Bhandari,F,49.0,Y,,"Tiger shark, female",11.0,3.0,,1.0,5.528,-87.06275
+2017-07-20,2017.0,Watercraft,USA,California,"Stearns Wharf, Santa Barbara",Kayaking,Bret Jackson,M,40.0,N,11h20,"White shark, 11' to 13'",7.0,3.0,11.0,0.0,34.410297,-119.691837
+2017-06-07,2017.0,Unprovoked,UNITED KINGDOM,South Devon,Bantham Beach,Surfing,Rich Thomson,M,30.0,N,,"3m shark, probably a smooth hound",6.0,2.0,,0.0,50.2783,-3.8786
+2016-09-26,2016.0,Unprovoked,AUSTRALIA,New South Wales,"Lighthouse Beach, Ballina",Surfing,Cooper Allen,M,17.0,N,9h00,"White shark, 3.5 m",9.0,0.0,9.0,0.0,-28.87262,153.589881
+2016-08-29,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Sam Cumiskey,M,25.0,N,15h00,"Bull shark, 6'",8.0,0.0,15.0,0.0,29.029722,-80.9237495
+2016-07-23,2016.0,Unprovoked,BAHAMAS,Abaco Islands,Green Turtle Cay,Spearfishing,Steve Cutbirth,M,,N,,"Bull shark, 6'",7.0,5.0,,0.0,26.76799,-77.33079
+2016-07-08,2016.0,Unprovoked,SPAIN,Canary Islands,"Las Teresitas, Tenerife",Wading,female,F,10.0,N,,Angel shark,7.0,4.0,,0.0,28.5070446,-16.1893959
+2016-01-05,2016.0,Unprovoked,AUSTRALIA,Queensland,Heron Island,Wading,Nicolas Davis,M,11.0,N,Afternoon,Blacktip shark,1.0,1.0,,0.0,-23.44229,151.91492
+2015-10-04,2015.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Phillip Tarasovic,M,14.0,N,08h30,"Blacktip shark, 4' to 5'",10.0,6.0,8.0,0.0,29.029722,-80.9237495
+2015-08-19,2015.0,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Walking,Kaley Szarmack,F,10.0,N,15h30,3' shark,8.0,2.0,15.0,0.0,30.2881812,-81.3920144
+2015-05-02,2015.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Diving,Mathieu Dasnois,M,29,N,13h00,"White shark, 3.5 m",5.0,5.0,13.0,0.0,-31.62291,29.54477
+2014-07-05,2014.0,Provoked,USA,California,"Manhattan Beach, Los Angeles County",Swimming,Steve Robles,M,,N,09h30,"White shark, 7'",7.0,5.0,9.0,0.0,33.885092,-118.40971
+2014-05-10,2014.0,Invalid,USA,Florida,"Bethel Shoals, Indian River County",Diving,Jimmy Roseman,M,,UNKNOWN,,No shark involvement,5.0,5.0,,,27.72475,-80.17977
+2014-04-12,2014.0,Provoked,SOUTH AFRICA,Eastern Cape Province,Port Alfred,Fishing,Lionel McDougall,M,,N,Morning,"Raggedtooth shark, 2m",4.0,5.0,,0.0,-33.58601,26.88329
+2013-12-25,2013.0,Unprovoked,NEW CALEDONIA,North Province,"Lindéralique, Hienghène",Snorkeling,Loïc Merlet,M,37,N,11h00,Reported to involve a bull shark,12.0,2.0,11.0,0.0,-20.68333,164.93333
+2013-12-11,2013.0,Unprovoked,USA,Hawaii,"Ninole Bay, Hawaii County",Boogie boarding,male,M,29,N,08h00,"Tiger shark, 10' to 12'",12.0,2.0,8.0,0.0,19.1330454,-155.5090425
+2013-11-30,2013.0,Unprovoked,AUSTRALIA,New South Wales,"Riecks Point,  Campbell’s Beach,",Body boarding,Zac Young,M,19,Y,14h00,"Tiger shark, 3m",11.0,5.0,14.0,1.0,-33.274481159205,151.311602214409
+2013-11-23,2013.0,Unprovoked,AUSTRALIA,Western Australia,Gracetown,Surfing,Chris Boyd,M,35,Y,09h00,Thought to involve a white shark,11.0,5.0,9.0,1.0,-33.866709908,114.989080385
+2013-09-07,2013.0,Unprovoked,USA,Florida,"New Smyrna Beach,  Volusia County",Standing,Marco Edmundo Cardiel,M,25,N,16h00,3' shark,9.0,5.0,16.0,0.0,29.029722,-80.9237495
+2013-07-17,2013.0,Unprovoked,USA,Florida,"Butler Beach, St Augustine,       St. Johns County",Swimming,male,M,teen,N,,Unknown,7.0,2.0,,0.0,29.7927,-81.2593
+2013-07-15,2013.0,Unprovoked,REUNION,Saint-Paul,Le cimetière marin,Swimming & snorkeling,Sarah Roperh,F,15,Y,14h15,Unknown,7.0,0.0,14.0,1.0,-21.0145158,55.2611012
+2013-06-14,2013.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,Allison Foreman,F,10,N,Afternoon,4' to 5' shark,6.0,4.0,,0.0,33.68785,-78.883852
+2014-05-14,2013.0,Unprovoked,ECUADOR,Santa Cruz Island,"Playa Brava, Turtle Bay",Surfing,Intriago Diego,M,29,N,12h00,Galapagos shark,5.0,2.0,12.0,0.0,0.6436179,-90.7789016
+2013-05-08,2013.0,Invalid,USA,California,"Tourmaline Surf Park, San Diego County",Surfing,Brandon Beaver,M,42,UNKNOWN,,Invalid,5.0,2.0,,,32.805066,-117.262228
+2012-09-08,2012.0,Unprovoked,USA,Florida,"South Beach, Miami-Dade County",Swimming,male,M,,N,Afternoon,Unknown,9.0,5.0,,0.0,25.7745,-80.1329
+2012-08-26,2012.0,Unprovoked,BRAZIL,Pernambuco,"Coral Cove, Cabo de Santo Agostinho",Swimming,Tiago José de Oliveira da Silva,M,18,Y,Afternoon,Unknown,8.0,6.0,,1.0,-8.287369,-35.035105
+2012-05-20,2012.0,Watercraft,USA,Hawaii,"Iroquiois Point, Oahu",Kayak Fishing,Jerry Gallardo,M,,N,Morning,"Tiger shark, 8' to 9'",5.0,6.0,,0.0,21.324662,-157.984648
+2012-01-18,2012.0,Provoked,TAIWAN,Taitung,Taimali,Fishing,male,M,24,N,,"Blue shark, 70-kg blue shark",1.0,2.0,,0.0,22.6155427,121.0076274
+2011-08-18,2011.0,Unprovoked,RUSSIA,"Peter the Great Bay, Khasan, Primorsky Krai (Far East)",Zheltukhin Island,Swimming,Valery Sidorovich,M,16,N,,Unknown,8.0,3.0,,0.0,42.4221475,130.6502044
+2017-09-16,2017.0,Unprovoked,SPAIN,Canary Islands,Gran Canaria,Body surfing,male,M,13.0,N,,"Porbeagle, 1.5 m",9.0,5.0,,0.0,27.74641,-15.57466
+2017-08-27,2017.0,Unprovoked,USA,Florida,Bathtub Beach,Wading,Violet Veatch,F,3.0,N,13h19,Unknown,8.0,6.0,13.0,0.0,27.186389,-80.160408
+2017-06-18,2017.0,Unprovoked,USA,South Carolina,"Burkes Beach, Hilton Head, Beaufort County",Swimming,Regan Readnour,F,14.0,N,,"Bull shark, 4' to 5'",6.0,6.0,,0.0,32.1940212,-80.697698
+2017-05-12,2017.0,Unprovoked,UNITED ARAB EMIRATES,"Sharjah,",Khor Fakkan,Spearfishing,Al Beloushi,M,41.0,N,Morning,Unknown,5.0,4.0,,0.0,25.354846,56.3507569
+2017-04-29,2017.0,Unprovoked,USA,California,"San Onofre, San Diego County",Swimming,Leeanne Ericson,F,,N,17h34,Unknown,4.0,5.0,17.0,0.0,33.384955,-117.572537
+2017-04-27,2017.0,Unprovoked,NEW ZEALAND,South Island,"Porpoise Bay, Catlins",Body boarding,female,F,20s,N,14h00,Unknown,4.0,3.0,14.0,0.0,-46.66149,169.105338
+2017-04-10,2017.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,Heather Orr,F,21.0,N,17h00,Unknown,4.0,0.0,17.0,0.0,28.068399,-80.558423
+2017-04-02,2017.0,Unprovoked,AUSTRALIA,Queensland,Moreton Bay,Kakaying,Gavin Kleiden,M,39.0,N,Afternoon,Unknown,4.0,6.0,,0.0,-27.062307389,152.829469174
+2017-03-18,2017.0,Watercraft,USA,California,Monterey Bay,Kayaking,Brian Correira,M,,N,14h30,White shark,3.0,5.0,14.0,0.0,36.79996,-121.90107
+2016-12-11,2016.0,Invalid,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Shane Garthwait,M,19.0,UNKNOWN,Afternoon,Shark involvement not confirmed,12.0,6.0,,,29.029722,-80.9237495
+2016-10-13,2016.0,Invalid,MEXICO,Unknown,Guadalupe Island,Cage Diving,Ming Chan,M,,UNKNOWN,,White shark,10.0,3.0,,,29.04521,-118.27754
+2016-09-05,2016.0,Unprovoked,AUSTRALIA,Western Australia,Injidup,Surfing,Fraser Penman,M,,N,Late afternoon,Unknown,9.0,0.0,,0.0,-31.693971366175,115.728988140668
+2016-06-21,2016.0,Unprovoked,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Wading,male,M,,N,14h55,Unknown,6.0,1.0,14.0,0.0,28.1831466,-80.5913689
+2016-04-23,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Kelton Beardall,M,15.0,N,17h30,Unknown,4.0,5.0,17.0,0.0,29.029722,-80.9237495
+2016-04-09,2016.0,Unprovoked,NEW CALEDONIA,Grand Terre,Poe Beach,Walking,Nicole Malignon,F,69.0,Y,10h45,"Tiger shark, 2.5 m",4.0,5.0,10.0,1.0,-21.307791316,165.701841842
+2016-01-24,2016.0,Unprovoked,USA,Texas,Off Surfside,Spearfishing,Keith Love,M,,N,09h30 / 10h00,Bull sharks x 2,1.0,6.0,9.0,0.0,29.141962061632,-98.470743996724
+2015-12-11,2015.0,Unprovoked,BAHAMAS,Unknown,Off Andros Island,Lobster fishing,Richard Pinder,M,26.0,N,,Bull shark,12.0,4.0,,0.0,24.43333,-77.95
+2015-08-22,2015.0,Invalid,USA,Florida,"Cocoa Beach, Brevard  County",Unknown,young boy,M,,UNKNOWN,19h45,Shark involvement not confirmed,8.0,5.0,19.0,,28.320224,-80.608867
+2015-06-14,2015.0,Unprovoked,USA,North Carolina,"Oak Island, Brunswick County",Wading,Hunter Treschel,M,16,N,17h51,Bull shark,6.0,6.0,17.0,0.0,33.912201,-78.106028
+2015-01-30,2015.0,Watercraft,AUSTRALIA,Queensland,"Nerang River, Surfer's  Paradise",Rowing,Racing scull: Occupant Trevor Carter,M,57,N,05h00,"Bull shark, 1.3 m",1.0,4.0,5.0,0.0,-28.00917532829,153.428386894604
+2014-11-08,2014.0,Unprovoked,USA,Florida,"Fort Pierce Inlet State Park, St. Lucie County",Surfing,Ryan Shapiro,M,18,N,16h30,Unknown,11.0,5.0,16.0,0.0,27.4842788,-80.3052946
+2014-08-24,2014.0,Unprovoked,USA,North Carolina,"Off Masonboro Island, New Hanover County",Kite boarding,Miller Diggs,Unknown,,N,,4' shark,8.0,6.0,,0.0,34.12545,-77.85804
+2014-08-08,2014.0,Unprovoked,USA,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",Swimming,Trent Trentacosta,M,7,N,Afternoon,"Bull shark, 5'",8.0,4.0,,0.0,29.958559823056,-90.17922065479
+2014-07-05,2014.0,Unprovoked,USA,California,"Oceano Dunes State Beach, San Luis Obispo County",Surfing,R.J.,M,,N,07h00 - 08h00,Unknown,7.0,5.0,7.0,0.0,35.1063406,-120.6315547
+2014-06-08,2014.0,Unprovoked,JAPAN,Atsumi peninsula,Aichi,Surfing,Tsuyoshi Takahashi,M,43,N,Afternoon,Unknown,6.0,6.0,,0.0,34.65919,137.24155
+2013-08-31,2013.0,Unprovoked,USA,California,"Butterfly Beach, Montecito, Santa Barbara County",Swimming,Nick Kennedy,M,,N,23h00,Salmon shark,8.0,5.0,23.0,0.0,34.41762,-119.6492
+2013-07-11,2013.0,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,Wading,Barbara Corey,F,63,N,15h20,Unknown,7.0,3.0,15.0,0.0,33.915334,-78.264155
+2013-03-29,2013.0,Unprovoked,SEYCHELLES,Unknown,Ile Platte,Free diving,Richard Parkinson,M,34,N,,Unknown,3.0,4.0,,0.0,-5.86667,55.38333
+2012-09-25,2012.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Brandon Taylor,M,21,N,16h30,5' shark,9.0,1.0,16.0,0.0,28.068399,-80.558423
+2012-08-15,2012.0,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Wading or swimming,"male, a tourist from Germany",M,31,N,,Unknown,8.0,2.0,,0.0,30.272469,-87.68743
+2012-06-22,2012.0,Unprovoked,AUSTRALIA,Tasmania,South Cape Bay,Surfing,James Barthy,M,,N,,Unknown,6.0,4.0,,0.0,-43.63,146.78999
+2012-05-23,2012.0,Unprovoked,USA,Florida,"Jacksonville, Duval County",Surfing,Chad Refro,M,22,N,15h00,4' to 5' shark,5.0,2.0,15.0,0.0,30.325968,-81.65676
+2011-09-19,2011.0,Unprovoked,REUNION,Saint-Gilles,Boucan-Canot,Body boarding,Mathieu Schiller,M,38,Y,15h30,Unknown,9.0,0.0,15.0,1.0,-21.030911250867,55.225106736401
+2011-08-16,2011.0,Unprovoked,SEYCHELLES,Praslin,Anse Lazio,Swimming or Snorkeling,Ian Martin Redmond,M,30,Y,16h30,"Bull shark, 6'",8.0,1.0,16.0,1.0,-4.2937436,55.7025629
+2011-06-24,2011.0,Unprovoked,USA,California,"San Onofre State Beach, San Diego County",Surfing,Doug Green,M,,N,13h30,"White shark, 5' k",6.0,4.0,13.0,0.0,33.3316612,-117.5039968
+2017-11-24,2017.0,Unprovoked,USA,California,"Stillwater Cove, Monterey County",Spearfishing,Grigor Azatian,M,25.0,N,13h45,"White shark, 4.6 m",11.0,4.0,13.0,0.0,36.56385,-121.9419
+2017-10-21,2017.0,Watercraft,NEW ZEALAND,North Island,"Off Tapuna Beach, Auckand",Kayaking,David Lomas,M,,N,09h00,2 m shark,10.0,5.0,9.0,0.0,-36.854683150801,174.751483399975
+2017-08-05,2017.0,Unprovoked,EGYPT,Red Sea Protectorate,Marsa Ghalib,Snorkeling,Kirsten Schachinger,F,20.0,N,,"Oceanic whitetip shark, 1.8 to 2 m",8.0,5.0,,0.0,24.721772765377,34.141488462562
+2017-04-12,2017.0,Unprovoked,USA,Florida,St. Augustine,Surfing,Kerry Keyton,F,,N,13h45,Unknown,4.0,2.0,13.0,0.0,29.896004,-81.316709
+2016-12-19,2016.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Keurbooms Lagoon, Plettenberg Bay",Surf skiing,Ben Swart,M,55.0,N,07h00,"White shark, 4 m",12.0,0.0,7.0,0.0,-34.038,23.3782
+2016-10-29,2016.0,Unprovoked,USA,Florida,Mayport Naval Station  Duval County,Surfing,Derrick Shoup,M,42.0,N,Afternoon,Unknown,10.0,5.0,,0.0,30.394745,-81.410855
+2016-07-23,2016.0,Unprovoked,AUSTRALIA,Tasmania,Clifton Beach,Surfing,Zebulon Critchlow,M,36.0,N,,Unknown,7.0,5.0,,0.0,-42.980991359,147.543006901
+2016-05-15,2016.0,Provoked,USA,Florida,"Boca Raton, Palm Beach County",Teasing a shark,female,F,23.0,N,13h20,"Nurse shark, 2'",5.0,6.0,13.0,0.0,26.350568,-80.0899135
+2016-04-25,2016.0,Unprovoked,INDONESIA,Bali,Balian,Surfing,Ryan Boarman,M,24.0,N,07h00,"Bull shark, 6'",4.0,0.0,7.0,0.0,-8.5037,114.9708
+2016-01-24,2016.0,Watercraft,UNITED ARAB EMIRATES,Fujairah Emirate,35 miles off Fujairah,Fishing,Occupants: Hamza Humaid Al Sahra’a & 5 crew,M,,N,,Mako shark,1.0,6.0,,0.0,25.11641,56.34141
+2015-09-20,2015.0,Unprovoked,USA,Florida,"Fernandina Beach, Amelia Island, Nassau County",Wading,"Joshua Bitner, Jr.",M,12.0,N,12h30,4' shark,9.0,6.0,12.0,0.0,30.6686874,-81.4343693
+2015-09-01,2015.0,Unprovoked,THAILAND,Phuket,Karon Beach,Wading,Jane Neame,F,37.0,N,08h30,small shark,9.0,1.0,8.0,0.0,7.839224881,98.294038388
+2015-07-04,2015.0,Unprovoked,USA,North Carolina,"Off Surf City, Pender County",Unknown,a marine,M,32,N,Evening,Unknown,7.0,5.0,,0.0,34.425619,-77.546911
+2015-04-25,2015.0,Unprovoked,AUSTRALIA,South Australia,Fishery Bay,Surfing,Chris Blowes,M,26,N,09h45,"White shark, 6 m",4.0,5.0,9.0,0.0,-34.7470956,135.8487067
+2014-12-28,2014.0,Unprovoked,USA,California,"Montaña de Oro State Park, San Luis Obispo County",Surfing,Kevin Swanson,M,50,N,11h30,"White shark, 8' to 10'",12.0,6.0,11.0,0.0,35.2639,-120.8622
+2014-12-15,2014.0,Unprovoked,AUSTRALIA,Queensland,Rudder Reef,Spearfishing,Daniel Smith,M,17,Y,11h30,Tiger shark,12.0,0.0,11.0,1.0,-16.2,145.71667
+2014-10-19,2014.0,Watercraft,USA,California,"Leadbetter Beach, Santa Barbara County",Canoeing,Tara Burnley,F,,N,,Unknown,10.0,6.0,,0.0,34.40244,-119.69932
+2014-08-27,2014.0,Unprovoked,USA,North Carolina,"Figure Eight Island,  New Hanover County",Surfing,Hunter Anderson,M,29,N,,4' to 6' shark,8.0,2.0,,0.0,34.27073,-77.74276
+2014-06-17,2014.0,Provoked,AUSTRALIA,Western Australia,Horizontal Falls,Petting a shark,Ric Wright,M,,N,,"Lemon shark, 3.5 m",6.0,1.0,,0.0,-25.474315693,122.184309326
+2014-05-04,2014.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Simonstown,Diving,,Unknown,,N,,Cow shark,5.0,6.0,,0.0,-34.1934,18.43585
+2014-03-22,2014.0,Unprovoked,USA,Florida,Delray Beach,Kite Surfing,Kurt Hoffman,M,,N,,4' to 5' shark,3.0,5.0,,0.0,26.4616338,-80.0731071
+2014-02-20,2014.0,Unprovoked,FRENCH POLYNESIA,Society Islands,Huahine,Kitesurfing,male,M,21,N,16h00,Blacktip reef shark,2.0,3.0,16.0,0.0,-17.17568,-150.38631
+2013-12-05,2013.0,Unprovoked,AUSTRALIA,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,male,M,26,N,18h15,"Wobbegong shark, 1.6 to 1.8m",12.0,3.0,18.0,0.0,-31.45403,152.93144
+2013-11-12,2013.0,Unprovoked,AUSTRALIA,Western Australia,"Trigg Beach, Perth",Surfing,Shaun Daly,M,,N,15h00,Reported to involve a white shark,11.0,1.0,15.0,0.0,-31.877937,115.75177
+2013-07-30,2013.0,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,Ty Bretz,M,32,N,,Unknown,7.0,1.0,,0.0,32.7884238,-79.7877544
+2013-04-17,2013.0,Unprovoked,USA,Florida,"Near Boynton Beach, Palm Beach County",Playing in the surf,Colten Cicarelli,M,9,N,10h30,3' shark,4.0,2.0,10.0,0.0,26.5289113,-80.0641707
+2013-03-21,2013.0,Unprovoked,BAHAMAS,Eleuthera,Savannah Sound,Fly fishing,Kerry Anderson,M,50,N,,Unknown,3.0,3.0,,0.0,25.08416,-76.13714
+2013-01-13,2013.0,Unprovoked,NEW ZEALAND,Mercury Islands,Great Mercury Island,Spearfishing,Kim Bade,M,,N,,"Bronze whaler shark, 3m",1.0,6.0,,0.0,-36.61667,175.8
+2012-10-16,2012.0,Invalid,USA,Florida,Hobe Sound,Unknown,male,M,,UNKNOWN,17h00,Shark involvement not confirmed,10.0,1.0,17.0,,27.0676296,-80.1358242
+2012-07-30,2012.0,Unprovoked,USA,Massachusetts,"Ballston Beach, Truro, Cape Cod",Body surfing,Chris Myers,M,50,N,15h30,Thought to involve a white shark,7.0,0.0,15.0,0.0,42.0007801,-70.0204591
+2012-06-26,2012.0,Unprovoked,USA,Hawaii,"Kahana Beach, Maui",Sitting in the water,Sage St. Clair,F,16,N,09h45,a small reef shark,6.0,1.0,9.0,0.0,20.9448962,-156.6921331
+2012-03-14,2012.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Sydney Levy,F,15,N,16h00,4' to 5' shark,3.0,2.0,16.0,0.0,29.029722,-80.9237495
+2011-09-24,2011.0,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Jumping in the waves,"Isaac O'Hara,",M,5,N,10h00,Unknown,9.0,5.0,10.0,0.0,33.8074384,-78.7152584
+2011-09-11,2011.0,Unprovoked,PAPUA NEW GUINEA,Central Province,"Hula, near Port Moresby",Kite Surfing,Thomas Viot,M,30,N,Afternoon,"Tiger shark, 2m",9.0,6.0,,0.0,-10.09459,147.72766
+2011-04-26,2011.0,Unprovoked,USA,Florida,"Riviera Beach, Palm Beach County",Spearfishing,Anthony Segrich,M,32,N,,"Bull shark, 12'",4.0,1.0,,0.0,26.7834459,-80.0547546
+2017-10-31,2017.0,Unprovoked,AUSTRALIA,Queensland,Magnetic Island,Snorkeling,Jack Tolley,M,7.0,N,,Cookiecutter shark,10.0,1.0,,0.0,-19.15514,146.8485
+2017-09-20,2017.0,Unprovoked,USA,Florida,Palm Beach County,Surfing,Richard Inniss,M,,N,Morning,Unknown,9.0,2.0,,0.0,26.647569939974,-80.436519379042
+2017-09-16,2017.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,male,M,28.0,N,16h30,Unknown,9.0,5.0,16.0,0.0,29.0970105,-80.9357379
+2017-04-02,2017.0,Unprovoked,USA,Florida,"Destin, Okaloosa County",Swimming,Caitlyn Taylor,F,17.0,N,15h00,"Bull shark, 5' to 7'",4.0,6.0,15.0,0.0,30.3936755,-86.4956633
+2016-09-18,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,43.0,N,10h43,Unknown,9.0,6.0,10.0,0.0,29.029722,-80.9237495
+2016-06-04,2016.0,Unprovoked,EGYPT,Suez,Ain Sokhna,Swimming,Omar Abdel Qader,M,23.0,N,Morning,Mako shark,6.0,5.0,,0.0,29.58902,32.33597
+2016-04-07,2016.0,Invalid,USA,Florida,"Corners Beach, Jupiter, Palm Beach County",SUP,Maximo Trinidad,M,,UNKNOWN,,Unknown,4.0,3.0,,,26.942207558808,-80.080291407193
+2015-11-03,2015.0,Unprovoked,USA,Hawaii,"Kehena Beach, Hawaii",Swimming,Paul O'Leary,M,54.0,N,11h00,Unknown,11.0,1.0,11.0,0.0,19.39356,-154.9301
+2015-09-05,2015.0,Provoked,USA,California,"Deer Creek Beach, Ventura County",Kayak Fishing,Dylan Marks,M,29.0,N,14h40,Hammerhead shark.,9.0,5.0,14.0,0.0,34.0592787,-118.975156
+2015-05-24,2015.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,Alysa Whetro,F,13,N,,Unknown,5.0,6.0,,0.0,28.320224,-80.608867
+2014-10-17,2014.0,Unprovoked,AUSTRALIA,New South Wales,Avoca Beach,Surfing,Kirra-Belle Olsson,F,13,N,06h30,1 m shark,10.0,4.0,6.0,0.0,-33.470895047,151.430842436
+2014-03-21,2014.0,Unprovoked,USA,Florida,Macarthur State Park,Surfing,Sebastian Cozzen,M,9,N,,Unknown,3.0,4.0,,0.0,26.6691383,-80.0699431
+2013-09-14,2013.0,Unprovoked,USA,Florida,"Casino Beach, Pensacola, Escambia County",Swimming,Trevor Kalck,M,21,N,15h30,Bull shark,9.0,5.0,15.0,0.0,30.3317477,-87.1410901
+2013-09-01,2013.0,Unprovoked,USA,Florida,"St Augustine Beach, St Johns County",Casting a net,Connor Baker,M,9,N,12h00,4' shark,9.0,6.0,12.0,0.0,29.852015,-81.267319
+2013-08-18,2013.0,Unprovoked,USA,Hawaii,Pohoiki,Surfing,Jimmy Napeahi,M,16,N,13h00,Unknown,8.0,6.0,13.0,0.0,19.45797,-154.84371
+2013-08-13,2013.0,Unprovoked,USA,Hawaii,"Ka'a Point, Maui",Kiteboarding,Morgan Flannery,F,19,N,13h55,Unknown,8.0,1.0,13.0,0.0,20.85632,-156.82905
+2013-03-10,2013.0,Unprovoked,AUSTRALIA,Western Australia,African Reef off Geraldton,Spearfishing,Adam Thomason,M,28,N,09h00,"Bronze whaler shark, 2.5m",3.0,6.0,9.0,0.0,-28.80252,114.61855
+2012-10-02,2012.0,Unprovoked,AUSTRALIA,Western Australia,"Mullaloo Beach, Perth",Bodyboarding,Andrew Gavriliu,M,11,N,12h00,2m shark,10.0,1.0,12.0,0.0,-31.7789,115.7326
+2012-09-06,2012.0,Unprovoked,USA,Florida,"Neptune Beach, Duval County",Surfing,James Fyfe,M,30s,N,Just before noon,Unknown,9.0,3.0,,0.0,30.312888,-81.398458
+2012-08-11,2012.0,Watercraft,AUSTRALIA,Western Australia,Ocean Reef,Fishing,dinghy,Unknown,,N,12h00,4.5 m shark,8.0,5.0,12.0,0.0,-31.75808771,115.737240457
+2012-07-07,2012.0,Watercraft,USA,California,"Pleasure Point, Santa Cruz County",Kayaking,M.C.,M,52,N,08h30,14' to 18'shark,7.0,5.0,8.0,0.0,36.963524,-121.964888
+2011-12-11,2011.0,Unprovoked,AUSTRALIA,New South Wales,Angourie,Surfing,Steve King,M,51,N,05h45,"White shark, 2.5m",12.0,6.0,5.0,0.0,-29.479241263,153.359289724
+2011-09-28,2011.0,Provoked,DOMINICAN REPUBLIC,Samaná Province,Playa Jackson,Fishing,Leocadio Reyes Sarante,M,48,N,,Unknown,9.0,2.0,,0.0,19.27228,-69.69389
+2011-06-30,2011.0,Unprovoked,TURKS & CAICOS,Middle Caicos,Mudjin Harbor,Snorkeling,Tyler Cyronak,M,28,N,13h30,Unknown,6.0,3.0,13.0,0.0,21.836227,-71.8138306
+2017-12-31,2017.0,Unprovoked,USA,Hawaii,"Hultin's Beach, Oahu",Surfing,Marjorie Mariano,F,54.0,N,18h00,Tiger shark,12.0,6.0,18.0,0.0,19.413473005133,-154.964052501584
+2017-09-25,2017.0,Unprovoked,AUSTRALIA,Western Australia,Gracetown,Surfing,Catherine Vissers,M,,N,18h00,"White shark, 3.5 m",9.0,0.0,18.0,0.0,-33.866709908,114.989080385
+2017-09-13,2017.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Benjamin Loyd,M,18.0,N,18h45,5' to 6' shark,9.0,2.0,18.0,0.0,29.0970105,-80.9357379
+2017-07-14,2017.0,Unprovoked,USA,Washington,"South Beach, Westport, Grays Harbor County",Surfing,MK,M,,N,18h30,"White shark, 9'",7.0,4.0,18.0,0.0,46.951674091798,-123.819700901536
+2017-06-17,2017.0,Unprovoked,SPAIN,Ibiza Island,Playa d’en Bossa,Swimming,male,M,82.0,N,12h00,Unknown,6.0,5.0,12.0,0.0,38.89583572701,1.414275053786
+2017-04-29,2017.0,Unprovoked,SOUTH AFRICA,Western Cape Province,"Keurbooms, Plettenberg Bay",Surfing,male,M,14.0,N,17h10,Unknown,4.0,5.0,17.0,0.0,-34.05274,23.3716
+2017-02-06,2017.0,Watercraft,SOUTH AFRICA,KwaZulu-Natal,Eastmoor Crescent Beach,Fishing,Kayak fishing. Murray Van Wyk,M,,N,,Tiger shark,2.0,0.0,,0.0,-29.742413869127,31.078229588043
+2017-01-13,2017.0,Unprovoked,USA,Florida,Jensen Beach,Unknown,a lifeguard,M,,N,Morning,Unknown,1.0,4.0,,0.0,27.2444691,-80.2252736
+2016-10-01,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfng,male,M,32.0,N,17h30,Unknown,10.0,5.0,17.0,0.0,29.029722,-80.9237495
+2016-09-05,2016.0,Unprovoked,USA,South Carolina,"Kingston Plantation, Myrtle Beach, Horry County",Boogie boarding,Rylie Williams,F,12.0,N,Late afternoon,Unknown,9.0,0.0,,0.0,33.77156218729,-78.776892695834
+2016-09-01,2016.0,Unprovoked,USA,California,"Refugio State Beach, Santa Barbara County",Spearfishing,Tyler McQuillen,M,22.0,N,,"White shark, 8' to 10'",9.0,3.0,,0.0,34.460859,-120.07392
+2016-05-03,2016.0,Unprovoked,USA,Hawaii,"Wailea Beach, Maui",Floating,male,M,59.0,N,15h49,Unknown,5.0,1.0,15.0,0.0,20.681265,-156.443428
+2016-01-11,2016.0,Unprovoked,AUSTRALIA,Queensland,"Happy Valley Beach, Caloundra",Surfing,Shane Hilder,M,,N,,Wobbegong shark,1.0,0.0,,0.0,-26.806909512274,153.135244045821
+2015-09-29,2015.0,Unprovoked,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,"David Morrison, Jr.",M,22.0,N,16h20,"Blacktip shark, 5' to 6'",9.0,1.0,16.0,0.0,29.9354428,-81.3019633
+2015-09-08,2015.0,Unprovoked,AUSTRALIA,New South Wales,North Shelly Beach,Surfing,Justin Daniels,M,42.0,N,06h15,6' shark,9.0,1.0,6.0,0.0,-28.861355297158,153.59439733283
+2015-06-23,2015.0,Unprovoked,USA,South Carolina,"St. Helena Island, Beaufort County",Standing,male,M,9,N,,small shark,6.0,1.0,,0.0,32.427134,-80.469145
+2015-05-20,2015.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Matthew Zaccaria,M,18,N,10h30,5' shark,5.0,2.0,10.0,0.0,29.029722,-80.9237495
+2015-04-12,2015.0,Unprovoked,REUNION,Saint-Gilles-les-Bains,Cap Homard,Surfing,Elio Canestri,M,13,Y,09h00,Bull shark,4.0,6.0,9.0,1.0,-21.034957513739,55.220312017611
+2015-03-11,2015.0,Watercraft,AUSTRALIA,New South Wales,"Julian Rocks, Byron Bay",Fishing,Dinghy: Occupant Robbie Graham,M,,N,Morning,Unknown,3.0,2.0,,0.0,-28.631810047003,153.585764536078
+2015-02-09,2015.0,Unprovoked,AUSTRALIA,New South Wales,Shelly Beach,Surfing,Tadashi Nakahara,M,41,Y,10h00,3.5 to 4 m shark,2.0,0.0,10.0,1.0,-33.371275482,151.483470313
+2015-02-05,2015.0,Unprovoked,AUSTRALIA,New South Wales,Mereweather Beach,Bodysurfing,Ben McPhee,M,,N,,1.8 m shark,2.0,3.0,,0.0,-32.947968,151.756403
+2014-10-05,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Hilton Mantooth,M,15,N,11h00,Blacktip shark,10.0,6.0,11.0,0.0,29.029722,-80.9237495
+2014-08-05,2014.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,female,F,45,N,,Unknown,8.0,1.0,,0.0,28.320224,-80.608867
+2014-07-03,2014.0,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Body surfing,Christian Fairbourne,M,19,N,18h15-18h30,4' to 5' shark,7.0,3.0,18.0,0.0,32.7884238,-79.7877544
+2014-06-09,2014.0,Unprovoked,USA,Delaware,"Cape Henlopen State Park, Sussex County",Standing,Andrew Vance,M,16,N,17h00,"Sandbar shark, 3' to 4'",6.0,0.0,17.0,0.0,38.7523184,-75.1708039
+2013-10-19,2013.0,Unprovoked,USA,Florida,Miami Beach,Wading,Logan Hamby,M,6,N,Late afternoon,Nurse shark?,10.0,5.0,,0.0,25.7922359,-80.134852
+2013-08-17,2013.0,Unprovoked,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,Wendi Zuccaro,F,,N,12h40,White shark,8.0,5.0,12.0,0.0,37.4955,-122.498
+2013-07-28,2013.0,Unprovoked,BAHAMAS,Abaco Islands,Scotland Cay,Spearfishing,Erik Norrie,M,40,N,16h05,6' shark,7.0,6.0,16.0,0.0,26.6461,-77.07071
+2013-06-25,2013.0,Unprovoked,USA,South Carolina,"Kiawah Island, Charleston County",Swimming,Joshua Watson,M,14,N,12h45,4' to 5' shark,6.0,1.0,12.0,0.0,32.597707,-80.12948
+2013-06-16,2013.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Queensberry Bay,Surfing,Kevin Bracey,M,,N,Morning,Unknown,6.0,6.0,,0.0,-32.88024,28.10298
+2013-06-15,2013.0,Unprovoked,USA,Florida,"Atlantic Beach, Duval County",Surfing,female,F,,N,,Unknown,6.0,5.0,,0.0,30.3336079,-81.397624
+2013-05-04,2013.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,Michael Adler,M,16,N,11h15,a small shark,5.0,5.0,11.0,0.0,28.068399,-80.558423
+2013-04-24,2013.0,Unprovoked,MEXICO,Quintana Roo,"Seagull Beach, Cancun",Swimming,Isabella Carchia,F,34,N,13h40,Tiger shark,4.0,2.0,13.0,0.0,21.04716,-86.781947
+2013-04-02,2013.0,Unprovoked,USA,Hawaii,Ka’anapali Shores,Surfing,male,M,58,N,08h30,4' shark,4.0,1.0,8.0,0.0,20.921727262506,-156.693271826184
+2013-01-21,2013.0,Invalid,AUSTRALIA,Queensland,Bullcock Beach,Dragging stranded shark into deeper water,Paul Marshallsea,M,62,UNKNOWN,,Unknown,1.0,0.0,,,-26.8067549,153.1317768
+2012-12-19,2012.0,Unprovoked,AUSTRALIA,Western Australia,Trigg Beach,Surfing,Richard Wands,M,32,N,0830,"Tiger shark, 6'",12.0,2.0,8.0,0.0,-31.877937,115.75177
+2012-05-09,2012.0,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,Karin Ulrike Stei,F,47,N,11h30,Unknown,5.0,2.0,11.0,0.0,27.638883,-80.38908
+2011-12-23,2011.0,Unprovoked,USA,Florida,New Smyrna Beach,Surfing,Will Futato,M,27,N,12h30,Unknown,12.0,4.0,12.0,0.0,29.029722,-80.9237495
+2011-10-05,2011.0,Watercraft,REUNION,Unknown,Cap La Houssaye,Canoeing,Jean-Pierre Castellani,M,51,N,10h30,2 to 2.5 m shark,10.0,2.0,10.0,0.0,-21.018582,55.238163
+2011-09-24,2011.0,Unprovoked,USA,Florida,"Santa Maria Island, Manatee County",Spearfishing,C.J. Wickersham,M,21,N,15h00,"Bull shark, 6'",9.0,5.0,15.0,0.0,27.462166597969,-82.660453417369
+2011-07-15,2011.0,Watercraft,REUNION,Saint-Gilles,Brisants.,Kayaking or Wave skiing,male,M,,N,17h00,Unknown,7.0,4.0,17.0,0.0,-21.058354427308,55.2230018763
+2011-07-13,2011.0,Unprovoked,USA,Texas,"South Padre Island, Cameron County",Surf fishing,Eugenio González Paez,M,,N,20h30,Unknown,7.0,2.0,20.0,0.0,26.110983,-97.165717
+2011-05-04,2011.0,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Palm Beach,Spearfishing,Trevor Burger,M,37,N,,Unknown,5.0,2.0,,0.0,-30.9820203,30.2705772
+2011-01-26,2011.0,Unprovoked,BAHAMAS,West End,Tiger Beach,Scuba diving,Jim Abernethy,M,55,N,15h00,Caribbean reef shark,1.0,2.0,15.0,0.0,26.68711,-78.97702
+2017-05-03,2017.0,Invalid,USA,California,"Sunset Beach, Orange County",Surfing,Sophia Raab,F,18.0,UNKNOWN,14h30,Shark involvement highly doubtful,5.0,2.0,14.0,,33.716327,-118.069515
+2017-04-11,2017.0,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,Denise Holz-Oosterveld,F,35.0,N,16h00,Unknown,4.0,1.0,16.0,0.0,29.2774764,-81.0417589
+2017-02-17,2017.0,Unprovoked,AUSTRALIA,Queensland,Eva Rock,Spearfishing,Glenn Dickson,M,26.0,N,10h20,Unknown,2.0,4.0,10.0,0.0,-26.73731,153.05237
+2017-02-06,2017.0,Provoked,BRAZIL,Pernambuco,Fernando de Noronha Marine Park,Grabbing shark for a selfie,female,F,,N,Afternoon,Lemon shark pup,2.0,0.0,,0.0,-3.86042,-32.41558
+2017-01-21,2017.0,Unprovoked,AUSTRALIA,Queensland,"Boot Reef, Torres Strait",Scuba Diving,Craig de Wit,M,55.0,N,12h00,"Bull shark, 4 m",1.0,5.0,12.0,0.0,-9.561435995,142.288520258
+2016-12-27,2016.0,Unprovoked,USA,Florida,"Avalon State Park Beach, North Hutchinson Island, St Lucie County",Surfing,Zack Davis,M,16.0,N,17h00,Unknown,12.0,1.0,17.0,0.0,27.5385001,-80.3158739
+2016-11-14,2016.0,Unprovoked,USA,Hawaii,"Kamaole Beach Park I, Maui",Floating,Barbara Zawacki,F,58.0,N,10h30,Tiger shark,11.0,0.0,10.0,0.0,20.7222,-156.4479
+2016-07-15,2016.0,Unprovoked,USA,California,"Surfside, Orange County",Kite surfing,Lee Frees,M,61.0,N,17h00,"White shark, 10' to 12'",7.0,4.0,17.0,0.0,33.72762,-118.082212
+2016-07-04,2016.0,Provoked,AUSTRALIA,Queensland,Palm Cove,Fishing,Nathan Oliver,M,34.0,N,22h00,Tawny nurse shark,7.0,0.0,22.0,0.0,-16.742322086,145.666913249
+2016-06-15,2016.0,Unprovoked,USA,Hawaii,"Kalapaki Beach, Kauai",Surfing,male,M,,N,06h00,3' to 4' shark,6.0,2.0,6.0,0.0,21.96052,-159.35018
+2016-06-14,2016.0,Unprovoked,USA,Texas,"Pirates Beach, Galveston",Floating in tube,Marin Alice Melton,F,6.0,N,17h30,3' to 4' shark,6.0,1.0,17.0,0.0,29.20208,-94.940605
+2016-05-02,2016.0,Provoked,NEW ZEALAND,North Island,Cormandel,Fishing,male,M,39.0,N,Afternoon,"Mako shark, 1.5 m [5']",5.0,0.0,,0.0,-41.1365449,174.83883
+2016-04-18,2016.0,Provoked,FRENCH POLYNESIA,Tuamotos,Makemo Atoll,Spearfishing,Hoata Iotua,M,22.0,N,Morning,"Grey reef shark, 2 m",4.0,0.0,,0.0,-16.59836,-143.72349
+2015-11-15,2015.0,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Swimming,S.R.B.,F,,N,11h00,Unknown,11.0,6.0,11.0,0.0,26.7043265,-80.0364366
+2015-10-30,2015.0,Unprovoked,AUSTRALIA,Western Australia,Bald Island,Spearfishing,Norman Galli,M,50.0,N,,Unknown,10.0,4.0,,0.0,-34.94242,116.4851
+2015-10-17,2015.0,Unprovoked,MOZAMBIQUE,Inhambane Province,"Nahaduga, Inhambane Bay",Fishing for shrimp,Albertina Cavel,F,35.0,Y,,Unknown,10.0,5.0,,1.0,-23.78157,35.40396
+2015-09-20,2015.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,male,M,14.0,N,16h45,juvenile shark,9.0,6.0,16.0,0.0,29.029722,-80.9237495
+2015-08-18,2015.0,Invalid,SPAIN,Alicante,"Poniente Beach, Benidorm",Swimming,male,M,10.0,UNKNOWN,11h00,Shark involvement not confirmed,8.0,1.0,11.0,,38.537275,-0.1404609
+2015-02-14,2015.0,Unprovoked,REUNION,d’Étang-Salé,Ravine Mula,Swimming,Talon Bishop,F,22,Y,18h30,"Tiger shark, 3.5 m",2.0,5.0,18.0,1.0,-21.266040602,55.366755393
+2014-06-09,2014.0,Unprovoked,AUSTRALIA,South Australia,"Parsons Beach,  Fleurieu Peninsula",Body boarding,Scott Berry,M,39,N,09h45,"Bronze whaler shark, 1.5m",6.0,0.0,9.0,0.0,-34.751583379,137.480916284
+2013-10-26,2013.0,Unprovoked,AUSTRALIA,Western Australia,"Little Island, near Hillarys",Diving for crayfish,Todd Robinson,M,,N,10h55,Reported to involve a 4 m white shark,10.0,5.0,10.0,0.0,-31.807368069,115.745418335
+2013-10-10,2013.0,Unprovoked,USA,Florida,"Destin, Okaloosa County",Wading,Zachary Tyke Standridge,M,12,N,15h30,Small bull shark,10.0,3.0,15.0,0.0,30.3936755,-86.4956633
+2013-09-21,2013.0,Unprovoked,USA,Florida,"Carlin Park, Jupiter, Palm Beach County",Surfing,Brandon Dugan,M,,N,Morning,Unknown,9.0,5.0,,0.0,26.92911,-80.06919
+2013-06-27,2013.0,Invalid,JAMAICA,Kingston Parish,Port Royal,Unknown,Kevin,M,20,UNKNOWN,,Shark involvement prior to death not confirmed,6.0,3.0,,,17.93738,-76.84062
+2013-02-01,2013.0,Unprovoked,JAMAICA,Kingston Parish,Pedro Cays,Unknown,male,M,18,N,,Unknown,2.0,4.0,,0.0,17.96667,-76.8
+2012-11-04,2012.0,Unprovoked,USA,Hawaii,"Makena Landing, Maui",Diving,Mark Riglos,M,30,N,08h30,"Tiger shark, 15'",11.0,6.0,8.0,0.0,20.6539039,-156.4411031
+2012-10-19,2012.0,Unprovoked,USA,Florida,"Seaport, Brevard County",Unknown,female,F,35,N,,Unknown,10.0,4.0,,0.0,28.300351108222,-80.70119487572
+2012-06-14,2012.0,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,male,M,,N,Afternoon,small blacktip shark?,6.0,3.0,,0.0,33.68785,-78.883852
+2012-02-06,2012.0,Unprovoked,AUSTRALIA,Queensland,Wurtulla,Surfing,Nick Ferguson,M,29,N,12h00,Unknown,2.0,0.0,12.0,0.0,-26.755036297,153.127536265
+2011-12-02,2011.0,Unprovoked,AUSTRALIA,New South Wales,Broken Head,Surfing,Milton Carter,M,63,N,06h00,Unknown,12.0,4.0,6.0,0.0,-28.714707127,153.598694516
+2011-06-06,2011.0,Unprovoked,COLUMBIA,San Andrés archipelago,Albuquerque Cay,Spearfishing,Jhon Jairo James,M,24,N,,Unknown,6.0,0.0,,0.0,12.52449,-81.71983
+2011-04-23,2011.0,Unprovoked,AUSTRALIA,Western Australia,Red Bluffs,Washing sand off a speared fish,Marcus van der Vyver,M,17,N,15h00,"reef shark, 1.5m",4.0,5.0,15.0,0.0,-18.8,126.46667
+2011-03-16,2011.0,Unprovoked,AUSTRALIA,New South Wales,"Jimmys Beach, Port Stephens",Wakeboarding,Lisa Mondy,F,24,N,13h00,3 m to 4 m shark,3.0,2.0,13.0,0.0,-32.735453541,151.886602806
+2011-02-13,2011.0,Provoked,AUSTRALIA,Queensland,Sunshine Beach,Fishing,male,M,,N,10h40,1 m shark,2.0,6.0,10.0,0.0,-26.40524615,153.109089371
+2017-10-23,2017.0,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Surfing,Jason Hartl,M,17.0,N,17h00,Unknown,10.0,0.0,17.0,0.0,26.883875,-80.059723
+2017-07-29,2017.0,Invalid,USA,South Carolina,"Hilton Head Island, Beaufort County",Swimming,Johnny Simatacolos,M,10.0,UNKNOWN,15h00,A small shark,7.0,5.0,15.0,,32.215401,-80.747563
+2017-07-02,2017.0,Invalid,COMOROS,Anjouan,Moya,Fishing,,Unknown,,UNKNOWN,,Shark involvement prior to death not confirmed,7.0,6.0,,,-12.3104592,44.4371524
+2017-03-09,2017.0,Unprovoked,BAHAMAS,The Exuma Cays,Great Exuma,Washing hands,George Keywood,M,58.0,N,,Lemon shark,3.0,3.0,,0.0,23.608071,-75.9043086
+2016-07-26,2016.0,Unprovoked,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",Surfing,Curran See & Harry Lake,M,18.0,N,12h00,Unknown,7.0,1.0,12.0,0.0,-28.837749,153.604367
+2016-02-10,2016.0,Invalid,CAYMAN ISLANDS,Grand Cayman,Stingray City Bar,Feeding stingrays?,Richard Branson,M,65.0,UNKNOWN,,No shark involvement,2.0,2.0,,,19.3147026,-81.1839617
+2015-12-25,2015.0,Unprovoked,SPAIN,Grand Canary Island,"Arinaga Beach, Aguimes, Gran Canaria",Swimming,Cristina Ojeda-Thies,F,38.0,N,,"Silky shark, 6.5'",12.0,4.0,,0.0,27.8557982,-15.39277
+2015-12-19,2015.0,Unprovoked,ARUBA,Unknown,Boat capsized,Sea disaster,Adrian Esteban Rafael,M,58.0,Y,,Unknown,12.0,5.0,,1.0,12.509085375,-69.970503017
+2015-10-07,2015.0,Unprovoked,AUSTRALIA,Western Australia,Pyramids Beach,Surfing,Eli Zawadzki,M,18.0,N,16h50,Unknown,10.0,2.0,16.0,0.0,-32.6036296,115.6310248
+2015-09-24,2015.0,Watercraft,USA,California,"Horseshoe Rock, Santa Barbara County",Kayak fishing,Darren Kenney,M,,N,10h45-11h15,"White shark, 19'",9.0,3.0,10.0,0.0,34.538263714677,-120.030793894701
+2015-09-18,2015.0,Unprovoked,USA,Florida,"Big Talbot Island, Duval County",Swimming,Peter Vergenz,M,,N,19h00,Unknown,9.0,4.0,19.0,0.0,30.502624,-81.450598
+2015-07-01,2015.0,Unprovoked,USA,North Carolina,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",Swimming,Andrew Costello,M,68,N,12h10,6' to 7' shark,7.0,2.0,12.0,0.0,35.1084829,-75.9778046
+2015-06-14,2015.0,Unprovoked,USA,North Carolina,"Oak Island, Brunswick County",Wading,Kiersten Yow,F,12,N,16h12,Bull shark,6.0,6.0,16.0,0.0,33.912201,-78.106028
+2014-08-12,2014.0,Unprovoked,USA,Florida,"3 to 4 miles west of Indian Pass, Gulf County",Standing,Kyle Hayes,M,,N,11h10,"Bull shark, 8'",8.0,1.0,11.0,0.0,29.688176,-85.264559
+2014-07-14,2014.0,Unprovoked,USA,Florida,Okaloosa Island,Swimming,Terrell Moore,M,39,N,14h30,4' shark,7.0,0.0,14.0,0.0,30.394995,-86.601875
+2014-05-14,2014.0,Unprovoked,AUSTRALIA,South Australia,"Elliston, Eyre Peninsula",Surfing,Andrew McLeod,M,35,N,09h30,"white shark, 15'",5.0,2.0,9.0,0.0,-32.76233,134.40962
+2013-08-11,2013.0,Unprovoked,USA,South Carolina,Folly Beach,Surfing,Tyson Royston,M,10,N,17h30,"Bull shark, 8'",8.0,6.0,17.0,0.0,32.655954,-79.941069
+2013-04-21,2013.0,Unprovoked,AUSTRALIA,New South Wales,Crowdy Head,Fishing,Alan Saunders,M,51,N,14h00,"Grey nurse shark, 3m",4.0,6.0,14.0,0.0,-31.841361817,152.75117655
+2013-03-16,2013.0,Provoked,SOUTH AFRICA,Western Cape Province,De Mond,Fishing - 'tag & release',Kobus Koeberg,M,30,N,09h00,"Raggedtooth shark, 1.5 m",3.0,5.0,9.0,0.0,-34.49045,20.42962
+2013-01-25,2013.0,Unprovoked,AUSTRALIA,Queensland,Noosa,Surfing,Matthew Cassaigne,M,,N,,Unknown,1.0,4.0,,0.0,-26.364472458,152.894059898
+2012-06-28,2012.0,Invalid,CROATIA,Unknown,Buccari Bay,Swimming,,Unknown,60,UNKNOWN,,No shark involvement,6.0,3.0,,,45.28833,14.56111
+2011-08-28,2011.0,Unprovoked,USA,Texas,"Grass Island, Aransas County",Wade Fishing,Mary Locklear,F,39,N,19h00,Unknown,8.0,6.0,19.0,0.0,28.05141,-97.15388
+2011-07-06,2011.0,Unprovoked,REUNION,Saint-Gilles,Roches Noires,Surfing,Arnaud Dussel,M,16,N,14h50,Unknown,7.0,2.0,14.0,0.0,-21.0532721,55.2287668
+2011-06-19,2011.0,Unprovoked,COSTA RICA,Guanacaste,Playa Grande,Surfing,Kevin Moraga,M,15,Y,12h15,Unknown,6.0,6.0,12.0,1.0,10.4849,-85.796
+2011-05-25,2011.0,Unprovoked,USA,Hawaii,"Lyman Beach, Kailua-Kona",Surfing,Theresa Fernandez,F,,N,13h15,"Tiger shark, 10'",5.0,2.0,13.0,0.0,19.647367,-155.99301
+2011-05-10,2011.0,Provoked,USA,Florida,Miami,Fishing,Brian Storch,M,,N,,"Sandbar shark, 8'",5.0,1.0,,0.0,25.775084,-80.194702
+2017-10-23,2017.0,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Swimming,Susan Peteka,F,60.0,N,08h00,Unknown,10.0,0.0,8.0,0.0,26.79372,-80.03288
+2017-09-01,2017.0,Watercraft,AUSTRALIA,Westerm Australia,Esperance,Fishing,,Unknown,,N,,"White shark, 3.5m",9.0,4.0,,0.0,-33.864058322,121.889971273
+2016-10-10,2016.0,Unprovoked,USA,Oregon,"Indian Beach, Ecola State Park, Clatsop County",Surfing,Joseph Tanner,M,29.0,N,16h00,Unknown,10.0,0.0,16.0,0.0,45.915970433933,-123.96670956689
+2016-08-25,2016.0,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Wading,David Cassetty,M,49.0,N,16h00,Unknown,8.0,3.0,16.0,0.0,30.094227,-81.405774
+2016-06-27,2016.0,Unprovoked,USA,South Carolina,Sullivan's Island,Unknown,male,M,35.0,N,16h20,3' to 4' shark,6.0,0.0,16.0,0.0,32.762889,-79.83623
+2016-03-31,2016.0,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,J. Orr,F,46.0,N,11h00,Unknown,3.0,3.0,11.0,0.0,20.81136,-156.622548
+2015-06-11,2015.0,Unprovoked,USA,North Carolina,"Ocean Isle, Brunswick County",Boogie boarding,girl,F,13,N,12h45,4' shark,6.0,3.0,12.0,0.0,33.900049282896,-78.061581994137
+2015-06-07,2015.0,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Playing,Lucas Vertullo,M,11,N,10h50,"Bull shark, 5'",6.0,6.0,10.0,0.0,28.3418745,-80.6069311
+2015-05-25,2015.0,Unprovoked,FRENCH POLYNESIA,Rangiroa,Avatoru Pass,Spearfishing,male,M,19,N,08h00,1m to 1.2 m shark,5.0,0.0,8.0,0.0,-14.94172,-147.702
+2015-03-07,2015.0,Unprovoked,FRENCH POLYNESIA,Central Tuamotu,"Tupapati, Hikueru Atoll",Sitting in the water,male,M,18 months,N,,Blacktip Reef shark,3.0,5.0,,0.0,-17.58416,-142.6164
+2014-10-12,2014.0,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Body surfing or Boogie boarding,female,F,,N,15h30,Unknown,10.0,6.0,15.0,0.0,28.068399,-80.558423
+2014-09-21,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Jordan Lefebvre,M,,N,11h30,Unknown,9.0,6.0,11.0,0.0,29.029722,-80.9237495
+2014-08-25,2014.0,Provoked,USA,Florida,Apalachicola Bay,Fishing for sharks,John Wiley,M,,N,,"Bull shark, 4.5'",8.0,0.0,,0.0,29.67299,-84.96185
+2014-08-09,2014.0,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Swimming,Krama Fordham,F,10,N,13h30,Unknown,8.0,5.0,13.0,0.0,28.3418745,-80.6069311
+2014-06-27,2014.0,Watercraft,ST. MARTIN,Unknown,20 miles from shore,Transatlantic Rowing,Victor Mooney,M,48,N,,Oceanic whitetip shark',6.0,4.0,,0.0,45.317255894336,-65.556280019486
+2014-02-07,2014.0,Unprovoked,NEW ZEALAND,South Island,Porpoise Bay,Surfing,Darren Mills,M,28,N,20h30,7-gill shark?,2.0,4.0,20.0,0.0,-46.66149,169.105338
+2013-08-14,2013.0,Unprovoked,USA,Hawaii,"Makenat, Maui",Snorkeling,Jana Lutteropp,F,20,Y,16h30,Tiger shark?,8.0,2.0,16.0,1.0,20.6558129,-156.4382664
+2013-07-29,2013.0,Unprovoked,USA,Hawaii,"White Plains Beach, Oahu",Surfing,Kiowa Gatewood,M,18,N,14h10,"Tiger shark, 8' to 10'",7.0,0.0,14.0,0.0,21.3035,-158.0452
+2012-12-30,2012.0,Unprovoked,AUSTRALIA,New South Wales,Between Dee Why and Long Reef,Surfing,Danny Sheather,M,23,N,12h45,2.5 m shark,12.0,6.0,12.0,0.0,-34.042395415736,150.823057559702
+2012-11-27,2012.0,Invalid,AUSTRALIA,Queensland,Mooloolaba,Unknown,,M,20,UNKNOWN,14h50,No shark involvement,11.0,1.0,14.0,,-26.680701789,153.117173326
+2012-09-08,2012.0,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Surfing,Matthew Fowler,M,25,N,12h00,Unknown,9.0,5.0,12.0,0.0,28.3418745,-80.6069311
+2012-04-19,2012.0,Unprovoked,SOUTH AFRICA,Western Cape Province,Caves near Kogel Bay,Body boarding,David Lilienfeld,M,20,Y,12h30,"White shark, 4 m to 5m",4.0,3.0,12.0,1.0,-34.057022758786,18.629068102981
+2012-03-20,2012.0,Unprovoked,AUSTRALIA,Queensland,Nobby's Beach,Surfing,Billy O'Leary,M,20,N,17h00,Possibly a bull shark,3.0,1.0,17.0,0.0,-28.0607735,153.4413733
+2011-12-07,2011.0,Invalid,SOUTH AFRICA,KwaZulu-Natal,Between Sodwana & Cape Vidal,Surf skiing,Richard Kohler,M,,UNKNOWN,,Shark involvement not confirmed,12.0,2.0,,,-28.12676,32.55906
+2011-12-05,2011.0,Invalid,AUSTRALIA,Queensland,Bushy Ilet,Spearfishing,Dave Fordson,Unknown,,UNKNOWN,,Shark involvement not confirmed,12.0,0.0,,,-11.25,142.95
+2011-11-22,2011.0,Watercraft,USA,California,Pigeon Point,Kayaking,Harry Pali,M,,N,,"White shark, 15' to 16'",11.0,1.0,,0.0,36.32635,-121.5041
+2011-07-22,2011.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Cintza Beach, East London",Surfing,Denver Struwig,M,29,N,10h00,"White shark, 3m to 4m",7.0,4.0,10.0,0.0,-33.01529,27.91162
+2008-06-26,2011.0,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Playing in the surf,Cassidy Cartwright,F,10,N,Afternoon,"Bull shark, 6'",6.0,3.0,,0.0,34.4710769,-77.4666599
+2011-01-12,2011.0,Unprovoked,MEXICO,Quintana Roo,Xcalak,Attempting to fix motor,Juan Miguel Infante Ramírez,M,37,N,,Unknown,1.0,2.0,,0.0,18.277243056,-87.857136111
+2017-11-25,2017.0,Sea Disaster,LIBYA,Unknown,Gars Garabulli,2 boats capsized,31 migrants,Unknown,,Y,,Some drowned but other may have been killed by blue sharks,11.0,5.0,,1.0,32.74506,13.71467
+2017-10-09,2017.0,Unprovoked,USA,Hawaii,"Davidsons Beach, Kekaha, Kauai",Surfing,Mitch Milan,M,54.0,N,18h30,"Tiger shark, 8 to 10 feet",10.0,0.0,18.0,0.0,21.9642,-159.7089
+2017-07-23,2017.0,Unprovoked,USA,New Jersey,Ventnor,Unknown,Isabella Smith,F,,N,,Sandtiger shark  2',7.0,6.0,,0.0,39.34039,-74.47737
+2016-12-01,2016.0,Unprovoked,AUSTRALIA,New South Wales,Booti Booti National Park,Surfing,Colin Rowland,M,65.0,N,09h00,White shark,12.0,3.0,9.0,0.0,-32.2485946,152.5377067
+2016-09-04,2016.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body boarding,Austin Moore,M,9.0,N,,Unknown,9.0,6.0,,0.0,29.029722,-80.9237495
+2016-07-27,2016.0,Provoked,USA,Florida,"Florida Keys, Monroe County",Lobstering,Warren Sapp,M,43.0,N,,"Nurse shark, 4'",7.0,2.0,,0.0,24.66709,-81.58314
+2016-07-14,2016.0,Unprovoked,BAHAMAS,Unknown,Tiger Beach,Scuba Diving,Michael Dornellas,M,,N,,"Lemon shark, 9'",7.0,3.0,,0.0,25.04113018772,-77.295281932361
+2016-06-02,2016.0,Unprovoked,NEW CALEDONIA,Unknown,"Côte-Blanche, Nouméa",Kite surfing,Pierre de Rotalier,M,,N,Afternoon,3 m shark,6.0,3.0,,0.0,-22.2628044,166.4446442
+2016-05-29,2016.0,Unprovoked,USA,Florida,"Neptune, Duval County",Swimming,male,M,13.0,N,15h45,5' shark,5.0,6.0,15.0,0.0,30.3236,-81.4145
+2016-02-12,2016.0,Unprovoked,DOMINICAN REPUBLIC,Altagracia Province,"Bavaro Beach, Punta Cana",Wading,Patricia Howe,F,,N,15h00,Unknown,2.0,4.0,15.0,0.0,18.58182,-68.40431
+2015-10-08,2015.0,Unprovoked,MOZAMBIQUE,Inhambane Province,"Maxixe, Inhambane Bay",Fishing,Alberto Rafael,M,,N,,Unknown,10.0,3.0,,0.0,-23.78157,35.40396
+2015-09-26,2015.0,Unprovoked,AUSTRALIA,Queensland,"Russel Island, Frankland Group",Snorkeling,female,F,7.0,N,Afternoon,Unknown,9.0,5.0,,0.0,-27.683219916,153.390457149
+2015-07-03,2015.0,Unprovoked,AUSTRALIA,New South Wales,Lennox Head,Surfing,Michael Hoile,M,52,N,09h00,White shark,7.0,4.0,9.0,0.0,-28.813397609,153.596179398
+2015-03-31,2015.0,Invalid,BRAZIL,Pernambuco,"Praia del Chifre, Olinda",Surfing,Diego Gomes Mota,M,23,UNKNOWN,11h00,No shark involvement,3.0,1.0,11.0,,-8.0248,-34.8574
+2014-08-29,2014.0,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,Brendan Murphy,M,17,N,,Spinner shark or blacktip shark,8.0,4.0,,0.0,29.0970105,-80.9357379
+2014-06-18,2014.0,Unprovoked,AUSTRALIA,South Australia,"Middleton Point, Fleurieu Peninsula",Body boarding,Jesse McKinnon,M,15,N,17h00,Unknown,6.0,2.0,17.0,0.0,-35.39065,138.68357
+2014-05-01,2014.0,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,Shane Nolet,M,23,N,15h00,3' shark,5.0,3.0,15.0,0.0,29.029722,-80.9237495
+2014-03-22,2014.0,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St Johns",Swimming,Friedrich Burgstaller.,M,66,Y,15h00,2 m shark,3.0,5.0,15.0,1.0,-31.6493491,29.5159128
+2013-12-10,2013.0,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Surfing,Bobby Baughman,M,30,N,14h30,4' to 6' shark,12.0,1.0,14.0,0.0,28.320224,-80.608867
+2013-08-31,2013.0,Unprovoked,BAHAMAS,Unknown,Freetown Beach,Spearfishing,Bryan Collins,M,,N,,Blacktip shark,8.0,5.0,,0.0,24.7761474,-76.3035138
+2013-02-21,2013.0,Unprovoked,USA,Hawaii,"Ka'anapali, Honokowai, Maui",Surfing,,Unknown,,N,18h00,reef shark?,2.0,3.0,18.0,0.0,20.94811,-156.6919
+2012-07-08,2012.0,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Swimming,Tracy Fasick,F,43,N,17h30,Unknown,7.0,6.0,17.0,0.0,34.4710769,-77.4666599
+2011-08-17,2011.0,Unprovoked,RUSSIA,"Telyakovsky Bay, Khasan,  Primorsky Krai (Far East)",Vityaz,Swimming,Denis Udovenko,M,25,N,Evening,4 m shark,8.0,2.0,,0.0,42.4221475,130.6502044
+2011-03-23,2011.0,Unprovoked,AUSTRALIA,New South Wales,Crowdy Head,Surfing,David Pearson,M,48,N,17h45,"Bull shark, 2.5m",3.0,2.0,17.0,0.0,-31.841361817,152.75117655
+2011-01-31,2011.0,Unprovoked,MEXICO,Quintana Roo,Cancun,Swimming,Nicole Moore,F,38,N,12h00,6' shark,1.0,0.0,12.0,0.0,21.164100412,-86.871082763
+2011-01-03,2011.0,Watercraft,AUSTRALIA,Western Australia,Busselton,Fishing,"A 'tinnie. Occupants :Paul Sweeny, Paul Nieuwkerdk, John and Mark Kik",Unknown,,N,12h00,White shark,1.0,0.0,12.0,0.0,-33.649024902,115.349555243
