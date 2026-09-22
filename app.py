@@ -315,7 +315,7 @@ if predict_button:
         )
 
     # -----------------------------
-    # STATION + MAP
+    # STATION
     # -----------------------------
 
     st.markdown('<div class="section">📡 Data source</div>', unsafe_allow_html=True)
@@ -325,16 +325,6 @@ if predict_button:
     s2.markdown(card("Distance", f"{station['distance_km']:.1f} km", "from your location"),
                 unsafe_allow_html=True)
 
-    map_points = [{"lat": latitude, "lon": longitude, "color": "#e6532e", "size": 400}]
-    if "lat" in station and "lon" in station:
-        map_points.append({"lat": float(station["lat"]), "lon": float(station["lon"]),
-                           "color": "#1ba3b8", "size": 250})
-    elif "latitude" in station and "longitude" in station:
-        map_points.append({"lat": float(station["latitude"]), "lon": float(station["longitude"]),
-                           "color": "#1ba3b8", "size": 250})
-    st.write("")
-    st.map(pd.DataFrame(map_points), color="color", size="size", zoom=7)
-    st.caption("🟠 Your location   🔵 NOAA station")
 
     # -----------------------------
     # FOOTER
