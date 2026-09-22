@@ -84,12 +84,11 @@ def load_training_data():
     return pd.read_csv("data/training_data.csv")
 
 
-@st.cache_data(ttl=3600, show_spinner=False)
-def geocode_location(location):
+def _nominatim(location):
     response = requests.get(
         "https://nominatim.openstreetmap.org/search",
         params={"q": location, "format": "json", "limit": 1},
-        headers={"User-Agent": "SharkBait/1.0"},
+        headers={"User-Agent": "SharkBait/1.1 (github.com/TLewinski/sharkbait)"},
         timeout=10,
     )
     response.raise_for_status()
@@ -101,6 +100,40 @@ def geocode_location(location):
         "longitude": float(results[0]["lon"]),
         "display_name": results[0]["display_name"],
     }
+
+
+def _open_meteo(location):
+    parts = [p.strip() for p in location.split(",") if p.strip()]
+    response = requests.get(
+        "https://geocoding-api.open-meteo.com/v1/search",
+        params={"name": parts[0], "count": 10, "format": "json"},
+        timeout=10,
+    )
+    response.raise_for_status()
+    results = response.json().get("results") or []
+    if not results:
+        return None
+    best = results[0]
+    if len(parts) > 1:
+        hint = parts[1].lower()
+        for r in results:
+            fields = [str(r.get(k, "")).lower() for k in ("admin1", "country", "country_code")]
+            if any(hint in f or f == hint for f in fields if f):
+                best = r
+                break
+    name = ", ".join(x for x in (best.get("name"), best.get("admin1"), best.get("country")) if x)
+    return {"latitude": best["latitude"], "longitude": best["longitude"], "display_name": name}
+
+
+@st.cache_data(ttl=86400, show_spinner=False)
+def geocode_location(location):
+    try:
+        result = _nominatim(location)
+        if result:
+            return result
+    except requests.RequestException:
+        pass
+    return _open_meteo(location)
 
 
 model = load_model()
